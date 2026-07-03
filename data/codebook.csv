@@ -1,0 +1,753 @@
+question_id,option_id,option_label,is_missing
+2025-010_health_1,1,Younger than 5,false
+2025-010_health_1,2,5-7,false
+2025-010_health_1,3,8-10,false
+2025-010_health_1,4,11-13,false
+2025-010_health_1,5,14-16,false
+2025-010_health_1,6,Older than 16,false
+2025-010_health_10,1,It would definitely make them a better therapist,false
+2025-010_health_10,2,It would probably make them a better therapist,false
+2025-010_health_10,3,It might or might not make them a better therapist,false
+2025-010_health_10,4,It would probably make them a worse therapist,false
+2025-010_health_10,5,It would definitely make them a worse therapist,false
+2025-010_health_11,1,Yes,false
+2025-010_health_11,2,No,false
+2025-010_health_11,3,Maybe,false
+2025-010_health_11,4,I never thought about it,false
+2025-010_health_12,1,1 Never,false
+2025-010_health_12,2,2,false
+2025-010_health_12,3,3,false
+2025-010_health_12,4,4,false
+2025-010_health_12,5,5,false
+2025-010_health_12,6,6 Everyday/Almost Everyday,false
+2025-010_health_13,1,1 Never,false
+2025-010_health_13,2,2,false
+2025-010_health_13,3,3,false
+2025-010_health_13,4,4,false
+2025-010_health_13,5,5,false
+2025-010_health_13,6,6 Everyday/Almost Everyday,false
+2025-010_health_14,1,1 Never,false
+2025-010_health_14,2,2,false
+2025-010_health_14,3,3,false
+2025-010_health_14,4,4,false
+2025-010_health_14,5,5,false
+2025-010_health_14,6,6 Everyday/Almost Everyday,false
+2025-010_health_15,1,1 Never,false
+2025-010_health_15,2,2,false
+2025-010_health_15,3,3,false
+2025-010_health_15,4,4,false
+2025-010_health_15,5,5,false
+2025-010_health_15,6,6 Everyday/Almost Everyday,false
+2025-010_health_16,1,1 Never,false
+2025-010_health_16,2,2,false
+2025-010_health_16,3,3,false
+2025-010_health_16,4,4,false
+2025-010_health_16,5,5,false
+2025-010_health_16,6,6 Everyday/Almost Everyday,false
+2025-010_health_17,1,1 Never,false
+2025-010_health_17,2,2,false
+2025-010_health_17,3,3,false
+2025-010_health_17,4,4,false
+2025-010_health_17,5,5,false
+2025-010_health_17,6,6 Everyday/Almost Everyday,false
+2025-010_health_18,1,0,false
+2025-010_health_18,2,1,false
+2025-010_health_18,3,2,false
+2025-010_health_18,4,3,false
+2025-010_health_18,5,4,false
+2025-010_health_18,6,5,false
+2025-010_health_18,7,6,false
+2025-010_health_18,8,7 or more,false
+2025-010_health_19,1,1 Not difficult at all,false
+2025-010_health_19,2,2,false
+2025-010_health_19,3,3,false
+2025-010_health_19,4,4,false
+2025-010_health_19,5,5,false
+2025-010_health_19,6,6,false
+2025-010_health_19,7,7 Extremely difficult,false
+2025-010_health_2,1,I don't have a salary or pension/retirement,false
+2025-010_health_2,2,"0%, no saving",false
+2025-010_health_2,3,1-3%,false
+2025-010_health_2,4,4-6%,false
+2025-010_health_2,5,7-9%,false
+2025-010_health_2,6,10-12%,false
+2025-010_health_2,7,more than 12%,false
+2025-010_health_20,1,1 Strongly Disagree,false
+2025-010_health_20,2,2,false
+2025-010_health_20,3,3,false
+2025-010_health_20,4,4,false
+2025-010_health_20,5,5 Strongly Agree,false
+2025-010_health_21,1,1 None of it,false
+2025-010_health_21,2,2,false
+2025-010_health_21,3,3,false
+2025-010_health_21,4,4,false
+2025-010_health_21,5,5,false
+2025-010_health_21,6,6,false
+2025-010_health_21,7,7 All of it,false
+2025-010_health_21,8,I don't use social media,false
+2025-010_health_22,1,1 Strongly disagree,false
+2025-010_health_22,2,2 Disagree,false
+2025-010_health_22,3,3 Slightly disagree,false
+2025-010_health_22,4,4 Neither disagree nor agree,false
+2025-010_health_22,5,5 Slightly agree,false
+2025-010_health_22,6,6 Agree,false
+2025-010_health_22,7,7 Strongly agree,false
+2025-010_health_23,1,1 Not similar at all,false
+2025-010_health_23,2,2,false
+2025-010_health_23,3,3,false
+2025-010_health_23,4,4,false
+2025-010_health_23,5,5,false
+2025-010_health_23,6,6,false
+2025-010_health_23,7,7 Most similar,false
+2025-010_health_24,1,Never,false
+2025-010_health_24,2,A few times a year,false
+2025-010_health_24,3,A few times per month,false
+2025-010_health_24,4,A few times per week,false
+2025-010_health_24,5,Multiple times a day,false
+2025-010_health_25,1,Never,false
+2025-010_health_25,2,A small amount of the time,false
+2025-010_health_25,3,Half of the time,false
+2025-010_health_25,4,Most of the time,false
+2025-010_health_25,5,All the time,false
+2025-010_health_26,1,1 Not free at all to express my true emotions,false
+2025-010_health_26,2,2,false
+2025-010_health_26,3,3,false
+2025-010_health_26,4,4 Neutral,false
+2025-010_health_26,5,5,false
+2025-010_health_26,6,6,false
+2025-010_health_26,7,7 Extremely free to express my true emotions,false
+2025-010_health_27,1,5 or more days per week,false
+2025-010_health_27,2,3-4 days per week,false
+2025-010_health_27,3,1-2 days per week,false
+2025-010_health_27,4,Less than 1 day per week,false
+2025-010_health_27,5,Never,false
+2025-010_health_27,6,Other (Please specify),false
+2025-010_health_28,1,No high school,false
+2025-010_health_28,2,Some high school,false
+2025-010_health_28,3,High school diploma,false
+2025-010_health_28,4,Some college,false
+2025-010_health_28,5,Associate degree,false
+2025-010_health_28,6,Bachelor’s degree,false
+2025-010_health_28,7,Postgraduate degree,false
+2025-010_health_29,1,Not at all ethically acceptable,false
+2025-010_health_29,2,Slightly ethically acceptable,false
+2025-010_health_29,3,Somewhat ethically acceptable,false
+2025-010_health_29,4,Moderately ethically acceptable,false
+2025-010_health_29,5,Very ethically acceptable,false
+2025-010_health_29,6,Highly ethically acceptable,false
+2025-010_health_29,7,Extremely ethically acceptable,false
+2025-010_health_3,1,0mg - 20mg,false
+2025-010_health_3,2,21mg - 60mg,false
+2025-010_health_3,3,61mg - 100mg,false
+2025-010_health_3,4,101mg - 140mg,false
+2025-010_health_3,5,141mg- 190mg,false
+2025-010_health_3,6,191mg - 230mg,false
+2025-010_health_3,7,231mg +,false
+2025-010_health_30,1,Lose weight to number you want and lose five years of your life,false
+2025-010_health_30,2,Accept your body as it is and you get an extra ten years of life,false
+2025-010_health_31,1,I've never seen/read Twilight,false
+2025-010_health_31,2,Edward,false
+2025-010_health_31,3,Jacob,false
+2025-010_health_4,1,Because they make them feel good.,false
+2025-010_health_4,2,Because it gives them a sense of belonging.,false
+2025-010_health_4,3,Because they feel soft.,false
+2025-010_health_4,4,Because they are collectibles.,false
+2025-010_health_4,5,Because they make them feel supported.,false
+2025-010_health_4,6,I don’t know.,false
+2025-010_health_5,1,Strongly agree,false
+2025-010_health_5,2,Agree,false
+2025-010_health_5,3,Neither agree nor disagree,false
+2025-010_health_5,4,Disagree,false
+2025-010_health_5,5,Strongly disagree,false
+2025-010_health_6,1,Strongly disagree,false
+2025-010_health_6,2,Moderately disagree,false
+2025-010_health_6,3,Slightly disagree,false
+2025-010_health_6,4,Neither disagree nor agree,false
+2025-010_health_6,5,Slightly agree,false
+2025-010_health_6,6,Moderately agree,false
+2025-010_health_6,7,Strongly agree,false
+2025-010_health_7,1,Never,false
+2025-010_health_7,2,Very Rarely,false
+2025-010_health_7,3,Rarely,false
+2025-010_health_7,4,Occasionally,false
+2025-010_health_7,5,Frequently,false
+2025-010_health_7,6,Very Frequently,false
+2025-010_health_8,1,1 I never feel this way,false
+2025-010_health_8,2,2,false
+2025-010_health_8,3,3,false
+2025-010_health_8,4,4,false
+2025-010_health_8,5,5,false
+2025-010_health_8,6,6,false
+2025-010_health_8,7,7 I always feel this way,false
+2025-010_health_9,1,Yes,false
+2025-010_health_9,2,No,false
+2025-010_health_9,3,Unsure,false
+2025-010_identity_1,1,No,false
+2025-010_identity_1,2,Yes,false
+2025-010_identity_10,1,Strongly agree,false
+2025-010_identity_10,2,Agree,false
+2025-010_identity_10,3,Slightly agree,false
+2025-010_identity_10,4,Neither agree nor disagree,false
+2025-010_identity_10,5,Slightly disagree,false
+2025-010_identity_10,6,Disagree,false
+2025-010_identity_10,7,Strongly disagree,false
+2025-010_identity_11,1,Strongly agree,false
+2025-010_identity_11,2,Agree,false
+2025-010_identity_11,3,Slightly agree,false
+2025-010_identity_11,4,Neither agree nor disagree,false
+2025-010_identity_11,5,Slightly disagree,false
+2025-010_identity_11,6,Disagree,false
+2025-010_identity_11,7,Strongly disagree,false
+2025-010_identity_12,1,Strongly agree,false
+2025-010_identity_12,2,Agree,false
+2025-010_identity_12,3,Slightly agree,false
+2025-010_identity_12,4,Neither agree nor disagree,false
+2025-010_identity_12,5,Slightly disagree,false
+2025-010_identity_12,6,Disagree,false
+2025-010_identity_12,7,Strongly disagree,false
+2025-010_identity_13,1,Strongly agree,false
+2025-010_identity_13,2,Agree,false
+2025-010_identity_13,3,Somewhat agree,false
+2025-010_identity_13,4,Neither agree or disagree,false
+2025-010_identity_13,5,Somewhat disagree,false
+2025-010_identity_13,6,Disagree,false
+2025-010_identity_13,7,Strongly Disagree,false
+2025-010_identity_14,1,Strongly disagree,false
+2025-010_identity_14,2,Disagree,false
+2025-010_identity_14,3,Neither agree nor disagree,false
+2025-010_identity_14,4,Agree,false
+2025-010_identity_14,5,Strongly agree,false
+2025-010_identity_15,1,1 No overlap in identities,false
+2025-010_identity_15,2,2,false
+2025-010_identity_15,3,3,false
+2025-010_identity_15,4,4,false
+2025-010_identity_15,5,5,false
+2025-010_identity_15,6,6,false
+2025-010_identity_15,7,7 Complete overlap in identities,false
+2025-010_identity_15,8,"N/A, I do not have a sibling",false
+2025-010_identity_16,1,1 My quality of life is poor in comparison to my sibling,false
+2025-010_identity_16,2,2,false
+2025-010_identity_16,3,3,false
+2025-010_identity_16,4,4 My quality of life is the same as my sibling,false
+2025-010_identity_16,5,5,false
+2025-010_identity_16,6,6,false
+2025-010_identity_16,7,7 My quality of life is better in comparison to my sibling,false
+2025-010_identity_16,8,"N/A, I do not have a sibling",false
+2025-010_identity_17,1,Not at all,false
+2025-010_identity_17,2,Very rarely,false
+2025-010_identity_17,3,Rarely,false
+2025-010_identity_17,4,Occasionally,false
+2025-010_identity_17,5,Frequently,false
+2025-010_identity_17,6,Very frequently,false
+2025-010_identity_17,7,Extremely,false
+2025-010_identity_18,1,1 Not at all important,false
+2025-010_identity_18,2,2,false
+2025-010_identity_18,3,3,false
+2025-010_identity_18,4,4 Somewhat important,false
+2025-010_identity_18,5,5,false
+2025-010_identity_18,6,6,false
+2025-010_identity_18,7,7 Extremely important,false
+2025-010_identity_19,1,1 Not at all important,false
+2025-010_identity_19,2,2,false
+2025-010_identity_19,3,3,false
+2025-010_identity_19,4,4 Somewhat important,false
+2025-010_identity_19,5,5,false
+2025-010_identity_19,6,6,false
+2025-010_identity_19,7,7 Extremely important,false
+2025-010_identity_2,1,1 Strongly disagree,false
+2025-010_identity_2,2,2 Disagree,false
+2025-010_identity_2,3,3 Slightly disagree,false
+2025-010_identity_2,4,4 Neutral,false
+2025-010_identity_2,5,5 Slightly agree,false
+2025-010_identity_2,6,6 Agree,false
+2025-010_identity_2,7,7 Strongly agree,false
+2025-010_identity_20,1,1 Not at all important,false
+2025-010_identity_20,2,2,false
+2025-010_identity_20,3,3,false
+2025-010_identity_20,4,4 Somewhat important,false
+2025-010_identity_20,5,5,false
+2025-010_identity_20,6,6,false
+2025-010_identity_20,7,7 Extremely important,false
+2025-010_identity_21,1,1 Not at all important,false
+2025-010_identity_21,2,2,false
+2025-010_identity_21,3,3,false
+2025-010_identity_21,4,4 Somewhat important,false
+2025-010_identity_21,5,5,false
+2025-010_identity_21,6,6,false
+2025-010_identity_21,7,7 Extremely important,false
+2025-010_identity_22,1,1 Not at all important,false
+2025-010_identity_22,2,2,false
+2025-010_identity_22,3,3,false
+2025-010_identity_22,4,4 Somewhat important,false
+2025-010_identity_22,5,5,false
+2025-010_identity_22,6,6,false
+2025-010_identity_22,7,7 Extremely important,false
+2025-010_identity_23,1,1 Not at all important,false
+2025-010_identity_23,2,2,false
+2025-010_identity_23,3,3,false
+2025-010_identity_23,4,4 Somewhat important,false
+2025-010_identity_23,5,5,false
+2025-010_identity_23,6,6,false
+2025-010_identity_23,7,7 Extremely important,false
+2025-010_identity_24,1,"Conserve energy (e.g., through thermostat settings, using energy efficient appliances)",false
+2025-010_identity_24,2,"Sustainable transport (e.g., commuting via public transport or carpool)",false
+2025-010_identity_24,3,"Advocating for pro-environmental policy change (e.g., encouraging your company to adopt sustainability targets)",false
+2025-010_identity_24,4,"Influencing others to take pro-environmental actions (e.g., talking to co-workers about the pro-environmental actions th",false
+2025-010_identity_24,5,"Sustainable food choices (e.g., reducing your food waste and choosing plant-based meals)",false
+2025-010_identity_25,1,More people than you realized want this change to happen,false
+2025-010_identity_25,2,More people than you realized think this change is possible,false
+2025-010_identity_26,1,A mid-level manager of an ethnically diverse team of 10.,false
+2025-010_identity_26,2,A senior manager under the supervision of a Black woman.,false
+2025-010_identity_27,1,Not at all important,false
+2025-010_identity_27,2,Slightly important,false
+2025-010_identity_27,3,Somewhat important,false
+2025-010_identity_27,4,Moderately important,false
+2025-010_identity_27,5,Very important,false
+2025-010_identity_27,6,Highly important,false
+2025-010_identity_27,7,Extremely important,false
+2025-010_identity_28,1,3 or younger,false
+2025-010_identity_28,2,4,false
+2025-010_identity_28,3,5,false
+2025-010_identity_28,4,6,false
+2025-010_identity_28,5,7,false
+2025-010_identity_28,6,8,false
+2025-010_identity_28,7,9 or older,false
+2025-010_identity_29,1,Very Frequently,false
+2025-010_identity_29,2,Frequently,false
+2025-010_identity_29,3,Occasionally,false
+2025-010_identity_29,4,Infrequently,false
+2025-010_identity_29,5,Very Infrequently,false
+2025-010_identity_3,1,Single,false
+2025-010_identity_3,2,Dating,false
+2025-010_identity_3,3,Living with a partner,false
+2025-010_identity_3,4,Married,false
+2025-010_identity_3,5,Separated,false
+2025-010_identity_3,6,Divorced,false
+2025-010_identity_3,7,Widowed,false
+2025-010_identity_3,8,Other,false
+2025-010_identity_30,1,Very Frequently,false
+2025-010_identity_30,2,Frequently,false
+2025-010_identity_30,3,Occasionally,false
+2025-010_identity_30,4,Infrequently,false
+2025-010_identity_30,5,Very Infrequently,false
+2025-010_identity_31,1,Very Frequently,false
+2025-010_identity_31,2,Frequently,false
+2025-010_identity_31,3,Occasionally,false
+2025-010_identity_31,4,Infrequently,false
+2025-010_identity_31,5,Very Infrequently,false
+2025-010_identity_4,1,I don't use TikTok,false
+2025-010_identity_4,2,No effect,false
+2025-010_identity_4,3,Happier through fitting in with others,false
+2025-010_identity_4,4,Feeling like you can never keep up with trends,false
+2025-010_identity_4,5,Stressed about fitting in with others,false
+2025-010_identity_4,6,Relaxed that you are able to fit in,false
+2025-010_identity_4,7,Sense of worthlessness from the trend cycle,false
+2025-010_identity_4,8,Feeling left out from the ever changing trend cycle,false
+2025-010_identity_5,1,Never,false
+2025-010_identity_5,2,Very rarely,false
+2025-010_identity_5,3,Rarely,false
+2025-010_identity_5,4,Occasionally,false
+2025-010_identity_5,5,Frequently,false
+2025-010_identity_5,6,Very frequently,false
+2025-010_identity_5,7,All the time,false
+2025-010_identity_6,1,Extremely positive,false
+2025-010_identity_6,2,Positive,false
+2025-010_identity_6,3,Somewhat positive,false
+2025-010_identity_6,4,Neutral,false
+2025-010_identity_6,5,Somewhat negative,false
+2025-010_identity_6,6,Negative,false
+2025-010_identity_6,7,Extremely negative,false
+2025-010_identity_7,1,1 Not at All,false
+2025-010_identity_7,2,2,false
+2025-010_identity_7,3,3 Somewhat,false
+2025-010_identity_7,4,4,false
+2025-010_identity_7,5,5 Moderately,false
+2025-010_identity_7,6,6,false
+2025-010_identity_7,7,7 Very Much,false
+2025-010_identity_8,1,1 Extremely immoral,false
+2025-010_identity_8,2,2,false
+2025-010_identity_8,3,3,false
+2025-010_identity_8,4,4,false
+2025-010_identity_8,5,5,false
+2025-010_identity_8,6,6,false
+2025-010_identity_8,7,7 Extremely moral,false
+2025-010_identity_9,1,Strongly agree,false
+2025-010_identity_9,2,Agree,false
+2025-010_identity_9,3,Somewhat agree,false
+2025-010_identity_9,4,Neither agree or disagree,false
+2025-010_identity_9,5,Somewhat disagree,false
+2025-010_identity_9,6,Disagree,false
+2025-010_identity_9,7,Strongly disagree,false
+2025-010_personality_1,1,Person A,false
+2025-010_personality_1,2,Person C,false
+2025-010_personality_1,3,Person D,false
+2025-010_personality_10,1,Yes,false
+2025-010_personality_10,2,No,false
+2025-010_personality_11,1,0 Not open at all,false
+2025-010_personality_11,2,1 Mostly Not Open,false
+2025-010_personality_11,3,2 Somewhat Not Open,false
+2025-010_personality_11,4,3 Somewhat Open,false
+2025-010_personality_11,5,4 Mostly Open,false
+2025-010_personality_11,6,5 Very Open,false
+2025-010_personality_12,1,"Yes, I would continue listening.",false
+2025-010_personality_12,2,"No, I would stop listening.",false
+2025-010_personality_13,1,Will enjoy much less over time,false
+2025-010_personality_13,2,Will enjoy a little less over time,false
+2025-010_personality_13,3,Will enjoy about the same,false
+2025-010_personality_13,4,Will enjoy a little more over time,false
+2025-010_personality_13,5,Will enjoy much more over time,false
+2025-010_personality_14,1,"Moments when I achieved something (e.g. marriage, awards, graduation, start a new degree or other academic/professional",false
+2025-010_personality_14,2,"Moments when I was having fun (e.g. vacation, parties, social gatherings)",false
+2025-010_personality_14,3,"Random events (e.g. daily life updates, memes, spontaneous thoughts)",false
+2025-010_personality_14,4,Others,false
+2025-010_personality_14,5,I don't post on social media,false
+2025-010_personality_15,1,1 Not at all true,false
+2025-010_personality_15,2,2,false
+2025-010_personality_15,3,3,false
+2025-010_personality_15,4,4,false
+2025-010_personality_15,5,5,false
+2025-010_personality_15,6,6,false
+2025-010_personality_15,7,7 Very true,false
+2025-010_personality_16,1,Not at all true,false
+2025-010_personality_16,2,Mostly untrue,false
+2025-010_personality_16,3,Neither true nor untrue,false
+2025-010_personality_16,4,Mostly true,false
+2025-010_personality_16,5,Very true,false
+2025-010_personality_17,1,Person A,false
+2025-010_personality_17,2,Person C,false
+2025-010_personality_17,3,Person D,false
+2025-010_personality_18,1,Strongly disagree,false
+2025-010_personality_18,2,Disagree,false
+2025-010_personality_18,3,Neither agree nor disagree,false
+2025-010_personality_18,4,Agree,false
+2025-010_personality_18,5,Strongly agree,false
+2025-010_personality_19,1,Definitely Conservation more than Openness,false
+2025-010_personality_19,2,Conservation more than Openness,false
+2025-010_personality_19,3,Somewhat Conservation more than Openness,false
+2025-010_personality_19,4,Neutral,false
+2025-010_personality_19,5,Somewhat Openness more than Conservation,false
+2025-010_personality_19,6,Openness more than Conservation,false
+2025-010_personality_19,7,Definitely Openness more than Conservation,false
+2025-010_personality_2,1,Strongly disagree,false
+2025-010_personality_2,2,Disagree,false
+2025-010_personality_2,3,Somewhat disagree,false
+2025-010_personality_2,4,Neutral,false
+2025-010_personality_2,5,Somewhat agree,false
+2025-010_personality_2,6,Agree,false
+2025-010_personality_2,7,Strongly agree,false
+2025-010_personality_20,1,More friends but less money,false
+2025-010_personality_20,2,More money but fewer friends,false
+2025-010_personality_21,1,1 Definitely would not,false
+2025-010_personality_21,2,2,false
+2025-010_personality_21,3,3,false
+2025-010_personality_21,4,4,false
+2025-010_personality_21,5,5,false
+2025-010_personality_21,6,6,false
+2025-010_personality_21,7,7 Definitely would,false
+2025-010_personality_22,1,Strongly Disagree,false
+2025-010_personality_22,2,Disagree,false
+2025-010_personality_22,3,Slightly Disagree,false
+2025-010_personality_22,4,Neutral,false
+2025-010_personality_22,5,Slightly Agree,false
+2025-010_personality_22,6,Agree,false
+2025-010_personality_22,7,Strongly Agree,false
+2025-010_personality_23,1,Strongly Disagree,false
+2025-010_personality_23,2,Disagree,false
+2025-010_personality_23,3,Slightly Disagree,false
+2025-010_personality_23,4,Neutral,false
+2025-010_personality_23,5,Slightly Agree,false
+2025-010_personality_23,6,Agree,false
+2025-010_personality_23,7,Strongly Agree,false
+2025-010_personality_24,1,Strongly Disagree,false
+2025-010_personality_24,2,Disagree,false
+2025-010_personality_24,3,Slightly Disagree,false
+2025-010_personality_24,4,Neutral,false
+2025-010_personality_24,5,Slightly Agree,false
+2025-010_personality_24,6,Agree,false
+2025-010_personality_24,7,Strongly Agree,false
+2025-010_personality_25,1,Strongly Disagree,false
+2025-010_personality_25,2,Disagree,false
+2025-010_personality_25,3,Slightly Disagree,false
+2025-010_personality_25,4,Neutral,false
+2025-010_personality_25,5,Slightly Agree,false
+2025-010_personality_25,6,Agree,false
+2025-010_personality_25,7,Strongly Agree,false
+2025-010_personality_26,1,Strongly Disagree,false
+2025-010_personality_26,2,Disagree,false
+2025-010_personality_26,3,Slightly Disagree,false
+2025-010_personality_26,4,Neutral,false
+2025-010_personality_26,5,Slightly Agree,false
+2025-010_personality_26,6,Agree,false
+2025-010_personality_26,7,Strongly Agree,false
+2025-010_personality_27,1,Strongly Disagree,false
+2025-010_personality_27,2,Disagree,false
+2025-010_personality_27,3,Slightly Disagree,false
+2025-010_personality_27,4,Neutral,false
+2025-010_personality_27,5,Slightly Agree,false
+2025-010_personality_27,6,Agree,false
+2025-010_personality_27,7,Strongly Agree,false
+2025-010_personality_28,1,Strongly Disagree,false
+2025-010_personality_28,2,Disagree,false
+2025-010_personality_28,3,Slightly Disagree,false
+2025-010_personality_28,4,Neutral,false
+2025-010_personality_28,5,Slightly Agree,false
+2025-010_personality_28,6,Agree,false
+2025-010_personality_28,7,Strongly Agree,false
+2025-010_personality_29,1,Strongly Disagree,false
+2025-010_personality_29,2,Disagree,false
+2025-010_personality_29,3,Slightly Disagree,false
+2025-010_personality_29,4,Neutral,false
+2025-010_personality_29,5,Slightly Agree,false
+2025-010_personality_29,6,Agree,false
+2025-010_personality_29,7,Strongly Agree,false
+2025-010_personality_3,1,Strongly disagree,false
+2025-010_personality_3,2,Disagree,false
+2025-010_personality_3,3,Neither agree nor disagree,false
+2025-010_personality_3,4,Agree,false
+2025-010_personality_3,5,Strongly agree,false
+2025-010_personality_30,1,Strongly Disagree,false
+2025-010_personality_30,2,Disagree,false
+2025-010_personality_30,3,Slightly Disagree,false
+2025-010_personality_30,4,Neutral,false
+2025-010_personality_30,5,Slightly Agree,false
+2025-010_personality_30,6,Agree,false
+2025-010_personality_30,7,Strongly Agree,false
+2025-010_personality_31,1,Strongly Disagree,false
+2025-010_personality_31,2,Disagree,false
+2025-010_personality_31,3,Slightly Disagree,false
+2025-010_personality_31,4,Neutral,false
+2025-010_personality_31,5,Slightly Agree,false
+2025-010_personality_31,6,Agree,false
+2025-010_personality_31,7,Strongly Agree,false
+2025-010_personality_4,1,A mid-level manager of an ethnically diverse team of 10.,false
+2025-010_personality_4,2,A senior manager under the supervision of a Black man.,false
+2025-010_personality_5,1,Quality,false
+2025-010_personality_5,2,Brand reputation,false
+2025-010_personality_5,3,Sustainability,false
+2025-010_personality_5,4,Innovation,false
+2025-010_personality_5,5,Technology,false
+2025-010_personality_5,6,Affordability,false
+2025-010_personality_5,7,Other (please specify),false
+2025-010_personality_6,1,"Yes, the AI should — because AI performs the same tasks and contributes equally to work outcomes; compensation should be based on performance",false
+2025-010_personality_6,2,"Yes, the AI should — because the AI has important financial needs (e.g., charging, travel, internet access, repair)",false
+2025-010_personality_6,3,"Yes, the AI should — because this avoids exploitation of labor for all workers, regardless of their nature.",false
+2025-010_personality_6,4,"No, the AI should not — because AI does not experience emotions, effort, or job satisfaction and does not benefit from wages in this way",false
+2025-010_personality_6,5,"No, the AI should not — because the AI does not have important financial needs (e.g., food, housing, healthcare, hygiene)",false
+2025-010_personality_6,6,"No, the AI should not — because paying the AI devalues human labor",false
+2025-010_personality_6,7,"Other, please specify",false
+2025-010_personality_6_multi,1,Single-select,false
+2025-010_personality_6_multi,2,Multi-select,false
+2025-010_personality_7,1,Home,false
+2025-010_personality_7,2,Someone else’s home,false
+2025-010_personality_7,3,Work,false
+2025-010_personality_7,4,School,false
+2025-010_personality_7,5,Community place,false
+2025-010_personality_7,6,Commercial place,false
+2025-010_personality_7,7,Other (please specify),false
+2025-010_personality_8,1,1 Strongly disagree,false
+2025-010_personality_8,2,2,false
+2025-010_personality_8,3,3,false
+2025-010_personality_8,4,4,false
+2025-010_personality_8,5,5,false
+2025-010_personality_8,6,6,false
+2025-010_personality_8,7,7 Strongly agree,false
+2025-010_personality_9,1,1 None at all,false
+2025-010_personality_9,2,2,false
+2025-010_personality_9,3,3,false
+2025-010_personality_9,4,4,false
+2025-010_personality_9,5,5,false
+2025-010_personality_9,6,6,false
+2025-010_personality_9,7,7 A lot,false
+2025-010_politics_1,1,All of the residents,false
+2025-010_politics_1,2,Almost all of the residents,false
+2025-010_politics_1,3,More than half of the residents,false
+2025-010_politics_1,4,About half of the residents,false
+2025-010_politics_1,5,Less than half of the residents,false
+2025-010_politics_1,6,Almost none of the residents,false
+2025-010_politics_1,7,None of the residents,false
+2025-010_politics_1,8,I don't know,false
+2025-010_politics_10,1,Strongly disagree,false
+2025-010_politics_10,2,Disagree,false
+2025-010_politics_10,3,Somewhat disagree,false
+2025-010_politics_10,4,Neither agree nor disagree,false
+2025-010_politics_10,5,Somewhat agree,false
+2025-010_politics_10,6,Agree,false
+2025-010_politics_10,7,Strongly agree,false
+2025-010_politics_11,1,Strongly disagree,false
+2025-010_politics_11,2,Disagree,false
+2025-010_politics_11,3,Somewhat disagree,false
+2025-010_politics_11,4,Neither agree nor disagree,false
+2025-010_politics_11,5,Somewhat agree,false
+2025-010_politics_11,6,Agree,false
+2025-010_politics_11,7,Strongly agree,false
+2025-010_politics_12,1,Strongly disagree,false
+2025-010_politics_12,2,Disagree,false
+2025-010_politics_12,3,Somewhat disagree,false
+2025-010_politics_12,4,Neither agree nor disagree,false
+2025-010_politics_12,5,Somewhat agree,false
+2025-010_politics_12,6,Agree,false
+2025-010_politics_12,7,Strongly agree,false
+2025-010_politics_13,1,1 Definitely not true,false
+2025-010_politics_13,2,2,false
+2025-010_politics_13,3,3,false
+2025-010_politics_13,4,4,false
+2025-010_politics_13,5,5 Definitely true,false
+2025-010_politics_14,1,1 I hate this idea,false
+2025-010_politics_14,2,2,false
+2025-010_politics_14,3,3,false
+2025-010_politics_14,4,4,false
+2025-010_politics_14,5,5,false
+2025-010_politics_14,6,6,false
+2025-010_politics_14,7,7 I love this idea,false
+2025-010_politics_15,1,1 I hate this idea,false
+2025-010_politics_15,2,2,false
+2025-010_politics_15,3,3,false
+2025-010_politics_15,4,4,false
+2025-010_politics_15,5,5,false
+2025-010_politics_15,6,6,false
+2025-010_politics_15,7,7 I love this idea,false
+2025-010_politics_16,1,1 I hate this idea,false
+2025-010_politics_16,2,2,false
+2025-010_politics_16,3,3,false
+2025-010_politics_16,4,4,false
+2025-010_politics_16,5,5,false
+2025-010_politics_16,6,6,false
+2025-010_politics_16,7,7 I love this idea,false
+2025-010_politics_17,1,1 I hate this idea,false
+2025-010_politics_17,2,2,false
+2025-010_politics_17,3,3,false
+2025-010_politics_17,4,4,false
+2025-010_politics_17,5,5,false
+2025-010_politics_17,6,6,false
+2025-010_politics_17,7,7 I love this idea,false
+2025-010_politics_18,1,1 I hate this idea,false
+2025-010_politics_18,2,2,false
+2025-010_politics_18,3,3,false
+2025-010_politics_18,4,4,false
+2025-010_politics_18,5,5,false
+2025-010_politics_18,6,6,false
+2025-010_politics_18,7,7 I love this idea,false
+2025-010_politics_19,1,1 Strongly disagree,false
+2025-010_politics_19,2,2,false
+2025-010_politics_19,3,3,false
+2025-010_politics_19,4,4,false
+2025-010_politics_19,5,5,false
+2025-010_politics_19,6,6,false
+2025-010_politics_19,7,7 Strongly agree,false
+2025-010_politics_2,1,Strongly agree,false
+2025-010_politics_2,2,Somewhat agree,false
+2025-010_politics_2,3,Neither agree nor disagree,false
+2025-010_politics_2,4,Somewhat disagree,false
+2025-010_politics_2,5,Strongly disagree,false
+2025-010_politics_20,1,Not similar at all,false
+2025-010_politics_20,2,Not very similar,false
+2025-010_politics_20,3,Neutral,false
+2025-010_politics_20,4,A little similar,false
+2025-010_politics_20,5,Very similar,false
+2025-010_politics_20,6,I don't have a romantic partner,false
+2025-010_politics_21,1,Very conservative,false
+2025-010_politics_21,2,Moderately conservative,false
+2025-010_politics_21,3,Slightly conservative,false
+2025-010_politics_21,4,Slightly liberal,false
+2025-010_politics_21,5,Moderately liberal,false
+2025-010_politics_21,6,Very liberal,false
+2025-010_politics_22,1,Strong negative change,false
+2025-010_politics_22,2,Moderate negative change,false
+2025-010_politics_22,3,Slight negative change,false
+2025-010_politics_22,4,No change,false
+2025-010_politics_22,5,Slight positive change,false
+2025-010_politics_22,6,Moderate positive change,false
+2025-010_politics_22,7,Strong positive change,false
+2025-010_politics_22,8,I do not have a relationship partner,false
+2025-010_politics_23,1,Strongly distrust,false
+2025-010_politics_23,2,Somewhat distrust,false
+2025-010_politics_23,3,Neutral,false
+2025-010_politics_23,4,Somewhat trust,false
+2025-010_politics_23,5,Strongly trust,false
+2025-010_politics_24,1,Strongly disagree,false
+2025-010_politics_24,2,Somewhat disagree,false
+2025-010_politics_24,3,Slightly disagree,false
+2025-010_politics_24,4,Neutral,false
+2025-010_politics_24,5,Slightly agree,false
+2025-010_politics_24,6,Somewhat agree,false
+2025-010_politics_24,7,Strongly agree,false
+2025-010_politics_25,1,1 Not at all disgusting,false
+2025-010_politics_25,2,2 Somewhat disgusting,false
+2025-010_politics_25,3,3 Moderately disgusting,false
+2025-010_politics_25,4,4 Very disgusting,false
+2025-010_politics_25,5,5 Completely disgusting,false
+2025-010_politics_26,1,1 Strongly disagree,false
+2025-010_politics_26,2,2 Disagree,false
+2025-010_politics_26,3,3 Somewhat disagree,false
+2025-010_politics_26,4,4 Neither agree nor disagree,false
+2025-010_politics_26,5,5 Somewhat agree,false
+2025-010_politics_26,6,6 Agree,false
+2025-010_politics_26,7,7 Strongly agree,false
+2025-010_politics_27,1,Yes,false
+2025-010_politics_27,2,No,false
+2025-010_politics_27,3,Not sure,false
+2025-010_politics_28,1,Yes,false
+2025-010_politics_28,2,No,false
+2025-010_politics_28,3,Not sure,false
+2025-010_politics_29,1,0-20%,false
+2025-010_politics_29,2,20-40%,false
+2025-010_politics_29,3,40-60%,false
+2025-010_politics_29,4,60-80%,false
+2025-010_politics_29,5,80-100%,false
+2025-010_politics_3,1,Strongly agree,false
+2025-010_politics_3,2,Somewhat agree,false
+2025-010_politics_3,3,Neither agree nor disagree,false
+2025-010_politics_3,4,Somewhat disagree,false
+2025-010_politics_3,5,Strongly disagree,false
+2025-010_politics_30,1,0-20%,false
+2025-010_politics_30,2,20-40%,false
+2025-010_politics_30,3,40-60%,false
+2025-010_politics_30,4,60-80%,false
+2025-010_politics_30,5,80-100%,false
+2025-010_politics_31,1,Strongly disagree,false
+2025-010_politics_31,2,Slightly disagree,false
+2025-010_politics_31,3,Neither agree nor disagree,false
+2025-010_politics_31,4,Slightly agree,false
+2025-010_politics_31,5,Strongly agree,false
+2025-010_politics_4,1,1 Not at all,false
+2025-010_politics_4,2,2,false
+2025-010_politics_4,3,3,false
+2025-010_politics_4,4,4,false
+2025-010_politics_4,5,5,false
+2025-010_politics_4,6,6,false
+2025-010_politics_4,7,7 Completely,false
+2025-010_politics_5,1,1 Worst off,false
+2025-010_politics_5,2,2,false
+2025-010_politics_5,3,3,false
+2025-010_politics_5,4,4,false
+2025-010_politics_5,5,5,false
+2025-010_politics_5,6,6,false
+2025-010_politics_5,7,7 Best off,false
+2025-010_politics_6,1,1 Worst off,false
+2025-010_politics_6,2,2,false
+2025-010_politics_6,3,3,false
+2025-010_politics_6,4,4,false
+2025-010_politics_6,5,5,false
+2025-010_politics_6,6,6,false
+2025-010_politics_6,7,7 Best off,false
+2025-010_politics_7,1,1 Strongly disagree,false
+2025-010_politics_7,2,2,false
+2025-010_politics_7,3,3,false
+2025-010_politics_7,4,4,false
+2025-010_politics_7,5,5,false
+2025-010_politics_7,6,6,false
+2025-010_politics_7,7,7 Strongly agree,false
+2025-010_politics_8,1,Strongly disagree,false
+2025-010_politics_8,2,Disagree,false
+2025-010_politics_8,3,Somewhat disagree,false
+2025-010_politics_8,4,Somewhat agree,false
+2025-010_politics_8,5,Agree,false
+2025-010_politics_8,6,Strongly agree,false
+2025-010_politics_8,7,N/A,false
+2025-010_politics_9,1,1 Completely false,false
+2025-010_politics_9,2,2,false
+2025-010_politics_9,3,3,false
+2025-010_politics_9,4,4,false
+2025-010_politics_9,5,5,false
+2025-010_politics_9,6,6,false
+2025-010_politics_9,7,7 Completely true,false

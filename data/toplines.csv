@@ -1,0 +1,753 @@
+question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,unweighted_n,is_missing,source_url
+2025-010_health_1,1,Younger than 5,0.040819497780209164,4.08,40.819497780209204,40,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_1,2,5-7,0.16639499356711207,16.64,166.3949935671122,172,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_1,3,8-10,0.2899386756920489,28.99,289.9386756920492,294,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_1,4,11-13,0.2978083151933799,29.78,297.80831519338017,293,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_1,5,14-16,0.11084475280780742,11.08,110.84475280780752,108,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_1,6,Older than 16,0.09419376495944261,9.42,94.19376495944269,93,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_10,1,It would definitely make them a better therapist,0.25804329084277533,25.8,258.04329084277555,266,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_10,2,It would probably make them a better therapist,0.36012538739697403,36.01,360.12538739697436,369,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_10,3,It might or might not make them a better therapist,0.3354815174849995,33.55,335.4815174849998,326,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_10,4,It would probably make them a worse therapist,0.029688192510703912,2.97,29.68819251070394,25,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_10,5,It would definitely make them a worse therapist,0.016661611764547234,1.67,16.66161176454725,14,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_11,1,Yes,0.5080023832491277,50.8,508.00238324912823,519,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_11,2,No,0.27103745534725215,27.1,271.0374553472524,274,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_11,3,Maybe,0.1539416186416173,15.39,153.94161864161742,154,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_11,4,I never thought about it,0.06701854276200285,6.7,67.01854276200291,53,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_12,1,1 Never,0.644295115039708,64.43,644.2951150397087,626,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_12,2,2,0.19556790329845378,19.56,195.56790329845396,212,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_12,3,3,0.08061175492922429,8.06,80.61175492922436,86,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_12,4,4,0.04974682097946479,4.97,49.746820979464836,50,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_12,5,5,0.01401196037461455,1.4,14.011960374614562,14,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_12,6,6 Everyday/Almost Everyday,0.01576644537853452,1.58,15.766445378534534,12,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_13,1,1 Never,0.6681236916411598,66.81,668.1236916411605,663,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_13,2,2,0.13623705681822337,13.62,136.2370568182235,150,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_13,3,3,0.08071564029961589,8.07,80.71564029961597,84,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_13,4,4,0.0488435390662546,4.88,48.84353906625464,50,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_13,5,5,0.04175504442532442,4.18,41.755044425324456,33,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_13,6,6 Everyday/Almost Everyday,0.024325027749421944,2.43,24.325027749421967,20,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_14,1,1 Never,0.5924637037381376,59.25,592.4637037381382,593,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_14,2,2,0.23911510096225996,23.91,239.1151009622602,240,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_14,3,3,0.09120653170388755,9.12,91.20653170388763,92,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_14,4,4,0.034967770728026565,3.5,34.96777072802659,38,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_14,5,5,0.021859241790267773,2.19,21.85924179026779,23,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_14,6,6 Everyday/Almost Everyday,0.020387651077420552,2.04,20.38765107742057,14,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_15,1,1 Never,0.7176530206894195,71.77,717.6530206894201,718,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_15,2,2,0.13330470245886217,13.33,133.3047024588623,142,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_15,3,3,0.08046234731266966,8.05,80.46234731266973,79,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_15,4,4,0.029912972551264305,2.99,29.912972551264332,30,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_15,5,5,0.02390916339532353,2.39,23.909163395323553,20,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_15,6,6 Everyday/Almost Everyday,0.014757793592460867,1.48,14.75779359246088,11,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_16,1,1 Never,0.742032052184453,74.2,742.0320521844537,738,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_16,2,2,0.1251216412448965,12.51,125.12164124489661,138,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_16,3,3,0.05761280146028447,5.76,57.61280146028452,59,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_16,4,4,0.030648394426588545,3.06,30.648394426588574,27,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_16,5,5,0.021802595888785553,2.18,21.80259588878557,21,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_16,6,6 Everyday/Almost Everyday,0.02278251479499193,2.28,22.78251479499195,17,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_17,1,1 Never,0.734976745825601,73.5,734.9767458256017,732,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_17,2,2,0.13119094165308826,13.12,131.19094165308837,137,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_17,3,3,0.0598417137768943,5.98,59.84171377689435,62,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_17,4,4,0.03288455962017346,3.29,32.88455962017349,34,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_17,5,5,0.021655001026286935,2.17,21.655001026286953,20,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_17,6,6 Everyday/Almost Everyday,0.01945103809795602,1.95,19.451038097956037,15,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_18,1,0,0.2259081658027197,22.59,225.9081658027199,223,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_18,2,1,0.11784227875026201,11.78,117.84227875026212,107,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_18,3,2,0.15488757771450154,15.49,154.88757771450167,159,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_18,4,3,0.1752957143781655,17.53,175.29571437816566,183,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_18,5,4,0.11109341796431126,11.11,111.09341796431136,114,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_18,6,5,0.09359735390874156,9.36,93.59735390874165,95,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_18,7,6,0.040037575589654865,4,40.0375755896549,36,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_18,8,7 or more,0.0813379158916436,8.13,81.33791589164368,83,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_19,1,1 Not difficult at all,0.23707990199077755,23.71,237.07990199077776,236,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_19,2,2,0.12492787126771374,12.49,124.92787126771385,135,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_19,3,3,0.15126903251746251,15.13,151.26903251746265,157,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_19,4,4,0.19608060463913185,19.61,196.08060463913202,182,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_19,5,5,0.13303823545952004,13.3,133.03823545952017,147,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_19,6,6,0.07764134555315672,7.76,77.64134555315678,72,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_19,7,7 Extremely difficult,0.07996300857223766,8,79.96300857223774,71,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_2,1,I don't have a salary or pension/retirement,0.3032461963586596,30.32,303.2461963586599,282,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_2,2,"0%, no saving",0.20223199953583618,20.22,202.23199953583637,203,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_2,3,1-3%,0.1287877354811614,12.88,128.78773548116152,128,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_2,4,4-6%,0.1362662323880321,13.63,136.26623238803222,134,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_2,5,7-9%,0.07450663123571394,7.45,74.50663123571401,85,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_2,6,10-12%,0.07755995731660108,7.76,77.55995731660114,89,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_2,7,more than 12%,0.07740124768399573,7.74,77.40124768399579,79,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_20,1,1 Strongly Disagree,0.4583937278752629,45.84,458.3937278752633,465,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_20,2,2,0.17219719967264965,17.22,172.19719967264982,169,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_20,3,3,0.21756633819563387,21.76,217.56633819563407,220,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_20,4,4,0.07672201116790608,7.67,76.72201116790616,79,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_20,5,5 Strongly Agree,0.07512072308854753,7.51,75.12072308854759,67,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_21,1,1 None of it,0.16084649908584822,16.08,160.84649908584836,152,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_21,2,2,0.15045109862198308,15.05,150.45109862198322,153,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_21,3,3,0.17087688946400653,17.09,170.8768894640067,171,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_21,4,4,0.2026067421920615,20.26,202.6067421920617,206,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_21,5,5,0.18781579739114881,18.78,187.81579739114898,183,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_21,6,6,0.06274535864439303,6.27,62.74535864439308,73,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_21,7,7 All of it,0.042252581952246494,4.23,42.25258195224653,41,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_21,8,I don't use social media,0.022405032648312364,2.24,22.405032648312385,21,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_22,1,1 Strongly disagree,0.18564151357294909,18.56,185.64151357294926,181,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_22,2,2 Disagree,0.22198391102945678,22.2,221.98391102945698,232,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_22,3,3 Slightly disagree,0.13324848794168864,13.32,133.24848794168875,128,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_22,4,4 Neither disagree nor agree,0.2331990190722399,23.32,233.1990190722401,234,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_22,5,5 Slightly agree,0.12698916724419773,12.7,126.98916724419786,125,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_22,6,6 Agree,0.06406547447587803,6.41,64.06547447587809,65,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_22,7,7 Strongly agree,0.03487242666358985,3.49,34.87242666358988,35,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_23,1,1 Not similar at all,0.1250958834481051,12.51,125.09588344810523,116,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_23,2,2,0.06738298887976445,6.74,67.38298887976451,60,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_23,3,3,0.1112988805970567,11.13,111.2988805970568,121,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_23,4,4,0.2959331275619724,29.59,295.93312756197264,295,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_23,5,5,0.18730853117232826,18.73,187.30853117232843,199,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_23,6,6,0.0905225682707573,9.05,90.52256827075739,93,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_23,7,7 Most similar,0.12245802007001584,12.25,122.45802007001595,116,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_24,1,Never,0.09526161184265189,9.53,95.26161184265197,97,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_24,2,A few times a year,0.2734923240338999,27.35,273.49232403390016,273,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_24,3,A few times per month,0.29123052930737237,29.12,291.23052930737265,277,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_24,4,A few times per week,0.22290713425873618,22.29,222.9071342587364,227,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_24,5,Multiple times a day,0.11710840055733966,11.71,117.10840055733976,126,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_25,1,Never,0.070971025421727,7.1,70.97102542172706,72,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_25,2,A small amount of the time,0.22364207770377614,22.36,223.64207770377635,228,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_25,3,Half of the time,0.16996565306472128,17,169.96565306472144,168,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_25,4,Most of the time,0.2941019593300722,29.41,294.1019593300725,279,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_25,5,All the time,0.2413192844797034,24.13,241.31928447970364,253,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_26,1,1 Not free at all to express my true emotions,0.05529139312602363,5.53,55.29139312602368,52,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_26,2,2,0.026551857968662308,2.66,26.551857968662333,30,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_26,3,3,0.087798827017754,8.78,87.79882701775408,95,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_26,4,4 Neutral,0.2765308219975131,27.65,276.5308219975134,259,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_26,5,5,0.17870390462211183,17.87,178.703904622112,188,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_26,6,6,0.1606275032230302,16.06,160.62750322303035,158,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_26,7,7 Extremely free to express my true emotions,0.21449569204490493,21.45,214.49569204490513,218,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_27,1,5 or more days per week,0.08807146824705321,8.81,88.07146824705329,91,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_27,2,3-4 days per week,0.0750634831018798,7.51,75.06348310187987,71,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_27,3,1-2 days per week,0.13683237633492304,13.68,136.83237633492317,147,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_27,4,Less than 1 day per week,0.1566387039541536,15.66,156.63870395415375,162,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_27,5,Never,0.46337452827812725,46.34,463.3745282781277,448,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_27,6,Other (Please specify),0.08001944008386307,8,80.01944008386315,81,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_28,1,No high school,0.023170069401577568,2.32,23.17006940157759,25,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_28,2,Some high school,0.08178172892954029,8.18,81.78172892954036,69,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_28,3,High school diploma,0.33336329476129295,33.34,333.3632947612933,285,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_28,4,Some college,0.1677510164642658,16.78,167.75101646426594,190,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_28,5,Associate degree,0.06752406380326452,6.75,67.52406380326458,86,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_28,6,Bachelor’s degree,0.207114507199509,20.71,207.11450719950918,215,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_28,7,Postgraduate degree,0.11929531944054987,11.93,119.29531944054997,130,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_29,1,Not at all ethically acceptable,0.3431708033787618,34.32,343.1708033787621,331,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_29,2,Slightly ethically acceptable,0.12563190976374158,12.56,125.6319097637417,120,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_29,3,Somewhat ethically acceptable,0.12974878824176483,12.97,129.74878824176494,134,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_29,4,Moderately ethically acceptable,0.1719516937474095,17.2,171.95169374740968,171,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_29,5,Very ethically acceptable,0.08651103444700874,8.65,86.51103444700881,103,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_29,6,Highly ethically acceptable,0.053194719465637176,5.32,53.19471946563723,51,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_29,7,Extremely ethically acceptable,0.0897910509556764,8.98,89.79105095567648,90,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_3,1,0mg - 20mg,0.26153521672407193,26.15,261.53521672407214,245,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_3,2,21mg - 60mg,0.21931771877481904,21.93,219.31771877481924,204,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_3,3,61mg - 100mg,0.20841883116748217,20.84,208.41883116748235,221,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_3,4,101mg - 140mg,0.14683573378048922,14.68,146.83573378048936,149,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_3,5,141mg- 190mg,0.053669578209982825,5.37,53.66957820998287,60,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_3,6,191mg - 230mg,0.043434889859121834,4.34,43.434889859121874,53,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_3,7,231mg +,0.06678803148403302,6.68,66.78803148403308,68,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_30,1,Lose weight to number you want and lose five years of your life,0.17380485695169695,17.38,173.8048569516971,178,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_30,2,Accept your body as it is and you get an extra ten years of life,0.8261951430483031,82.62,826.1951430483039,822,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_31,1,I've never seen/read Twilight,0.5286539241396658,52.87,528.6539241396663,525,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_31,2,Edward,0.2627838646034067,26.28,262.7838646034069,273,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_31,3,Jacob,0.2085622112569275,20.86,208.5622112569277,202,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_4,1,Because they make them feel good.,0.537920929932643,53.79,537.9209299326434,536,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_4,2,Because it gives them a sense of belonging.,0.2381108457562864,23.81,238.11084575628664,252,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_4,3,Because they feel soft.,0.29639678780154044,29.64,296.3967878015407,294,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_4,4,Because they are collectibles.,0.4869148042853686,48.69,486.91480428536903,486,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_4,5,Because they make them feel supported.,0.34521811830490706,34.52,345.21811830490736,355,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_4,6,I don’t know.,0.11907818123761844,11.91,119.07818123761855,116,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_5,1,Strongly agree,0.11506566085488097,11.51,115.06566085488107,113,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_5,2,Agree,0.22634750717252014,22.63,226.34750717252035,220,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_5,3,Neither agree nor disagree,0.35686122202276166,35.69,356.861222022762,348,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_5,4,Disagree,0.17939118216854652,17.94,179.3911821685467,184,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_5,5,Strongly disagree,0.12233442778129078,12.23,122.33442778129088,135,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_6,1,Strongly disagree,0.03457928408397644,3.46,34.57928408397647,35,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_6,2,Moderately disagree,0.0217564337759958,2.18,21.75643377599582,20,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_6,3,Slightly disagree,0.03177660382425447,3.18,31.776603824254497,29,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_6,4,Neither disagree nor agree,0.11201725632009628,11.2,112.01725632009638,120,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_6,5,Slightly agree,0.1405440282379348,14.05,140.54402823793492,142,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_6,6,Moderately agree,0.2542182435353505,25.42,254.21824353535072,246,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_6,7,Strongly agree,0.4051081502223918,40.51,405.10815022239217,408,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_7,1,Never,0.08484908938477123,8.48,84.8490893847713,73,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_7,2,Very Rarely,0.16063431676750156,16.06,160.6343167675017,168,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_7,3,Rarely,0.16552127454862864,16.55,165.52127454862878,173,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_7,4,Occasionally,0.38825377726416593,38.83,388.2537772641663,383,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_7,5,Frequently,0.1412385591203837,14.12,141.23855912038383,140,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_7,6,Very Frequently,0.05950298291454901,5.95,59.502982914549065,63,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_8,1,1 I never feel this way,0.1732556992910626,17.33,173.25569929106277,170,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_8,2,2,0.19925112106911191,19.93,199.2511210691121,204,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_8,3,3,0.1616647446407383,16.17,161.66474464073843,157,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_8,4,4,0.19632384386957014,19.63,196.3238438695703,198,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_8,5,5,0.15037849729156838,15.04,150.37849729156852,143,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_8,6,6,0.055249445277787954,5.52,55.249445277788006,57,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_8,7,7 I always feel this way,0.06387664856016075,6.39,63.8766485601608,71,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_9,1,Yes,0.7650567403210995,76.51,765.0567403211002,776,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_9,2,No,0.0649536945849842,6.5,64.95369458498426,67,false,https://verasight-spsp-2025.tiiny.co
+2025-010_health_9,3,Unsure,0.1699895650939164,17,169.98956509391655,157,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_1,1,No,0.8132663768446358,81.33,813.2663768446362,823,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_1,2,Yes,0.1867336231553642,18.67,186.7336231553643,177,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_10,1,Strongly agree,0.10647110464855875,10.65,106.4711046485588,103,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_10,2,Agree,0.13987025728157496,13.99,139.87025728157502,139,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_10,3,Slightly agree,0.12219700937307335,12.22,122.19700937307341,132,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_10,4,Neither agree nor disagree,0.4987476606527817,49.87,498.747660652782,483,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_10,5,Slightly disagree,0.047444730842013345,4.74,47.44473084201337,49,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_10,6,Disagree,0.03775811653799663,3.78,37.75811653799665,40,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_10,7,Strongly disagree,0.04751112066400124,4.75,47.51112066400127,54,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_11,1,Strongly agree,0.11643227888263098,11.64,116.43227888263105,119,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_11,2,Agree,0.15786390293727404,15.79,157.86390293727413,154,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_11,3,Slightly agree,0.19922854993419523,19.92,199.22854993419534,194,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_11,4,Neither agree nor disagree,0.3038842558364012,30.39,303.8842558364014,295,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_11,5,Slightly disagree,0.06087833991084746,6.09,60.878339910847494,59,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_11,6,Disagree,0.09489401928315819,9.49,94.89401928315824,92,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_11,7,Strongly disagree,0.06681865321549282,6.68,66.81865321549286,87,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_12,1,Strongly agree,0.03648448352249045,3.65,36.48448352249047,42,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_12,2,Agree,0.13995405312378528,14,139.95405312378537,141,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_12,3,Slightly agree,0.14396097631564836,14.4,143.96097631564845,141,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_12,4,Neither agree nor disagree,0.5079804141860199,50.8,507.9804141860202,502,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_12,5,Slightly disagree,0.07670618860634372,7.67,76.70618860634376,77,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_12,6,Disagree,0.05485004197178276,5.49,54.850041971782794,50,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_12,7,Strongly disagree,0.04006384227392946,4.01,40.06384227392948,47,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_13,1,Strongly agree,0.10642270753179645,10.64,106.4227075317965,103,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_13,2,Agree,0.12672795207889948,12.67,126.72795207889955,126,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_13,3,Somewhat agree,0.15838473434953831,15.84,158.3847343495384,159,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_13,4,Neither agree or disagree,0.44593469087355814,44.59,445.9346908735584,440,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_13,5,Somewhat disagree,0.05604020737792436,5.6,56.04020737792439,58,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_13,6,Disagree,0.07053117976212074,7.05,70.53117976212079,72,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_13,7,Strongly Disagree,0.03595852802616246,3.6,35.958528026162476,42,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_14,1,Strongly disagree,0.04080822887064875,4.08,40.808228870648776,37,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_14,2,Disagree,0.19575546112018619,19.58,195.7554611201863,184,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_14,3,Neither agree nor disagree,0.2544887161595085,25.45,254.48871615950867,270,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_14,4,Agree,0.38979278807009304,38.98,389.79278807009325,388,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_14,5,Strongly agree,0.11915480577956346,11.92,119.15480577956353,121,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_15,1,1 No overlap in identities,0.2116512731802322,21.17,211.65127318023232,212,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_15,2,2,0.060051198621751324,6.01,60.05119862175136,59,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_15,3,3,0.11007768869387055,11.01,110.07768869387061,118,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_15,4,4,0.17177257020066944,17.18,171.77257020066955,181,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_15,5,5,0.21983285749190593,21.98,219.83285749190605,200,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_15,6,6,0.05386434628050294,5.39,53.86434628050297,51,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_15,7,7 Complete overlap in identities,0.0766976291258471,7.67,76.69762912584714,72,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_15,8,"N/A, I do not have a sibling",0.09605243640522047,9.61,96.05243640522053,107,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_16,1,1 My quality of life is poor in comparison to my sibling,0.0775453294578162,7.75,77.54532945781624,85,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_16,2,2,0.05877314571847253,5.88,58.77314571847256,56,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_16,3,3,0.11679049790962152,11.68,116.79049790962159,112,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_16,4,4 My quality of life is the same as my sibling,0.3142732535856778,31.43,314.273253585678,308,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_16,5,5,0.1290134523356574,12.9,129.01345233565746,129,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_16,6,6,0.08110421898095457,8.11,81.10421898095461,82,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_16,7,7 My quality of life is better in comparison to my sibling,0.12542392843247208,12.54,125.42392843247214,122,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_16,8,"N/A, I do not have a sibling",0.0970761735793279,9.71,97.07617357932796,106,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_17,1,Not at all,0.06344618001873463,6.34,63.446180018734665,67,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_17,2,Very rarely,0.05896787755297651,5.9,58.96787755297654,58,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_17,3,Rarely,0.18432960808165952,18.43,184.32960808165961,181,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_17,4,Occasionally,0.43330467212094387,43.33,433.30467212094413,430,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_17,5,Frequently,0.20307661215161874,20.31,203.07661215161886,198,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_17,6,Very frequently,0.03849852472448562,3.85,38.49852472448564,43,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_17,7,Extremely,0.018376525349581046,1.84,18.376525349581055,23,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_18,1,1 Not at all important,0.027240009065633508,2.72,27.240009065633522,26,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_18,2,2,0.02627623455550644,2.63,26.276234555506452,24,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_18,3,3,0.06062274663254013,6.06,60.622746632540164,61,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_18,4,4 Somewhat important,0.2771017157935228,27.71,277.10171579352294,286,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_18,5,5,0.1894394153366093,18.94,189.43941533660941,175,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_18,6,6,0.19412397589969377,19.41,194.12397589969387,199,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_18,7,7 Extremely important,0.22519590271649403,22.52,225.19590271649417,229,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_19,1,1 Not at all important,0.04298643085757223,4.3,42.98643085757225,40,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_19,2,2,0.012377393700709914,1.24,12.377393700709922,17,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_19,3,3,0.0754873888886689,7.55,75.48738888866895,80,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_19,4,4 Somewhat important,0.3828302673371242,38.28,382.83026733712444,360,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_19,5,5,0.20606750794588138,20.61,206.0675079458815,206,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_19,6,6,0.14124269787792848,14.12,141.24269787792855,151,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_19,7,7 Extremely important,0.1390083133921148,13.9,139.0083133921149,146,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_2,1,1 Strongly disagree,0.05732045068865746,5.73,57.320450688657495,63,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_2,2,2 Disagree,0.11706713221450755,11.71,117.06713221450762,115,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_2,3,3 Slightly disagree,0.11849464791855295,11.85,118.49464791855301,113,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_2,4,4 Neutral,0.24382584059059023,24.38,243.82584059059036,235,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_2,5,5 Slightly agree,0.1685544353646947,16.86,168.5544353646948,181,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_2,6,6 Agree,0.19303943184752684,19.3,193.03943184752694,191,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_2,7,7 Strongly agree,0.10169806137547026,10.17,101.69806137547032,102,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_20,1,1 Not at all important,0.02255098510236049,2.26,22.550985102360503,21,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_20,2,2,0.020449837999953462,2.04,20.449837999953473,24,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_20,3,3,0.07801040735056955,7.8,78.0104073505696,84,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_20,4,4 Somewhat important,0.33576093203155877,33.58,335.760932031559,329,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_20,5,5,0.21698160327004754,21.7,216.98160327004766,203,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_20,6,6,0.1561870897595367,15.62,156.1870897595368,161,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_20,7,7 Extremely important,0.1700591444859734,17.01,170.0591444859735,178,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_21,1,1 Not at all important,0.022711836571877104,2.27,22.711836571877118,22,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_21,2,2,0.020139638842662518,2.01,20.139638842662528,20,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_21,3,3,0.053341166673563575,5.33,53.341166673563606,53,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_21,4,4 Somewhat important,0.2724383244038362,27.24,272.43832440383636,269,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_21,5,5,0.20050800057993662,20.05,200.50800057993672,199,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_21,6,6,0.20860509207677852,20.86,208.60509207677865,212,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_21,7,7 Extremely important,0.22225594085134542,22.23,222.25594085134554,225,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_22,1,1 Not at all important,0.0139452004672459,1.39,13.945200467245908,16,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_22,2,2,0.01101759075876074,1.1,11.017590758760747,12,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_22,3,3,0.05474187042924429,5.47,54.74187042924432,52,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_22,4,4 Somewhat important,0.236931176308865,23.69,236.93117630886513,246,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_22,5,5,0.23343140315488015,23.34,233.4314031548803,219,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_22,6,6,0.22923219424763053,22.92,229.23219424763064,227,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_22,7,7 Extremely important,0.2207005646333734,22.07,220.70056463337352,228,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_23,1,1 Not at all important,0.01581980044463302,1.58,15.81980044463303,17,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_23,2,2,0.00639735734642642,0.64,6.397357346426424,8,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_23,3,3,0.06202767638088812,6.2,62.02767638088816,57,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_23,4,4 Somewhat important,0.2713032695218245,27.13,271.30326952182463,279,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_23,5,5,0.2344311316077022,23.44,234.43113160770235,226,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_23,6,6,0.20211147773413926,20.21,202.11147773413938,211,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_23,7,7 Extremely important,0.2079092869643864,20.79,207.90928696438652,202,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_24,1,"Conserve energy (e.g., through thermostat settings, using energy efficient appliances)",0.3921610247625288,39.22,392.161024762529,388,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_24,2,"Sustainable transport (e.g., commuting via public transport or carpool)",0.13107809452968933,13.11,131.0780945296894,127,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_24,3,"Advocating for pro-environmental policy change (e.g., encouraging your company to adopt sustainability targets)",0.18742457518653427,18.74,187.42457518653438,189,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_24,4,"Influencing others to take pro-environmental actions (e.g., talking to co-workers about the pro-environmental actions th",0.16551638099114152,16.55,165.5163809911416,170,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_24,5,"Sustainable food choices (e.g., reducing your food waste and choosing plant-based meals)",0.12381992453010611,12.38,123.81992453010618,126,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_25,1,More people than you realized want this change to happen,0.5726455846563641,57.26,572.6455846563643,573,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_25,2,More people than you realized think this change is possible,0.427354415343636,42.74,427.3544153436362,427,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_26,1,A mid-level manager of an ethnically diverse team of 10.,0.701471258120794,70.15,701.4712581207945,698,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_26,2,A senior manager under the supervision of a Black woman.,0.2985287418792059,29.85,298.5287418792061,302,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_27,1,Not at all important,0.5218862123631755,52.19,521.8862123631758,515,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_27,2,Slightly important,0.10991076863986672,10.99,109.91076863986679,110,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_27,3,Somewhat important,0.10236502384688843,10.24,102.36502384688849,91,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_27,4,Moderately important,0.13576229896012204,13.58,135.7622989601221,147,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_27,5,Very important,0.06102363616017577,6.1,61.023636160175805,65,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_27,6,Highly important,0.039009577447139676,3.9,39.0095774471397,39,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_27,7,Extremely important,0.03004248258263186,3,30.04248258263188,33,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_28,1,3 or younger,0.10389197407804975,10.39,103.8919740780498,103,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_28,2,4,0.0768042536797976,7.68,76.80425367979764,75,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_28,3,5,0.14911488422892,14.91,149.1148842289201,147,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_28,4,6,0.1668323625529411,16.68,166.8323625529412,151,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_28,5,7,0.11590322630174042,11.59,115.90322630174049,113,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_28,6,8,0.08021956575835544,8.02,80.21956575835549,88,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_28,7,9 or older,0.30723373340019566,30.72,307.23373340019583,323,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_29,1,Very Frequently,0.04917021713066882,4.92,49.170217130668846,48,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_29,2,Frequently,0.16877684595633222,16.88,168.77684595633232,174,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_29,3,Occasionally,0.3802471356351649,38.02,380.2471356351651,368,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_29,4,Infrequently,0.18063191278203086,18.06,180.63191278203095,188,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_29,5,Very Infrequently,0.22117388849580322,22.12,221.17388849580334,222,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_3,1,Single,0.24795217356341606,24.8,247.9521735634162,239,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_3,2,Dating,0.052142394472419064,5.21,52.14239447241909,43,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_3,3,Living with a partner,0.1117272671173345,11.17,111.72726711733456,122,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_3,4,Married,0.44860712524972035,44.86,448.6071252497206,450,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_3,5,Separated,0.017553063718524192,1.76,17.553063718524204,19,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_3,6,Divorced,0.0782915227972102,7.83,78.29152279721025,80,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_3,7,Widowed,0.0387056463237614,3.87,38.70564632376143,42,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_3,8,Other,0.005020806757614209,0.5,5.020806757614212,5,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_30,1,Very Frequently,0.07986425807700573,7.99,79.86425807700577,81,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_30,2,Frequently,0.17445636322598895,17.45,174.45636322598907,189,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_30,3,Occasionally,0.4106867599734408,41.07,410.68675997344104,411,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_30,4,Infrequently,0.162203221881215,16.22,162.2032218812151,149,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_30,5,Very Infrequently,0.17278939684234945,17.28,172.78939684234956,170,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_31,1,Very Frequently,0.05589525530789023,5.59,55.89525530789027,59,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_31,2,Frequently,0.13330251063346205,13.33,133.30251063346213,143,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_31,3,Occasionally,0.4109340216929835,41.09,410.9340216929837,415,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_31,4,Infrequently,0.19947068523084757,19.95,199.4706852308477,191,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_31,5,Very Infrequently,0.20039752713481662,20.04,200.39752713481673,192,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_4,1,I don't use TikTok,0.4176058786794832,41.76,417.6058786794834,415,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_4,2,No effect,0.3259938260559889,32.6,325.99382605598913,307,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_4,3,Happier through fitting in with others,0.08968280381864237,8.97,89.68280381864241,104,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_4,4,Feeling like you can never keep up with trends,0.07876120156383175,7.88,78.76120156383179,72,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_4,5,Stressed about fitting in with others,0.023546698726640284,2.35,23.546698726640297,27,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_4,6,Relaxed that you are able to fit in,0.10653484267898818,10.65,106.53484267898824,112,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_4,7,Sense of worthlessness from the trend cycle,0.02189279237612239,2.19,21.892792376122404,24,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_4,8,Feeling left out from the ever changing trend cycle,0.03796406060707642,3.8,37.96406060707644,44,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_5,1,Never,0.09196928254123708,9.2,91.96928254123713,90,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_5,2,Very rarely,0.08741418839103171,8.74,87.41418839103176,75,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_5,3,Rarely,0.1487255572132645,14.87,148.72555721326458,145,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_5,4,Occasionally,0.32658224672635533,32.66,326.5822467263555,346,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_5,5,Frequently,0.23841389454321138,23.84,238.4138945432115,236,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_5,6,Very frequently,0.06382007699659151,6.38,63.82007699659154,71,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_5,7,All the time,0.04307475358830846,4.31,43.07475358830848,37,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_6,1,Extremely positive,0.04293660729029534,4.29,42.93660729029536,49,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_6,2,Positive,0.15639137106480283,15.64,156.3913710648029,159,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_6,3,Somewhat positive,0.1525618192700748,15.26,152.5618192700749,166,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_6,4,Neutral,0.4715736733270846,47.16,471.57367332708486,450,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_6,5,Somewhat negative,0.08843074908242565,8.84,88.4307490824257,99,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_6,6,Negative,0.05676060100814078,5.68,56.76060100814081,48,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_6,7,Extremely negative,0.031345178957175965,3.13,31.345178957175982,29,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_7,1,1 Not at All,0.15798668691499693,15.8,157.98668691499702,157,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_7,2,2,0.11159956539827076,11.16,111.59956539827083,113,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_7,3,3 Somewhat,0.2655237073912756,26.55,265.52370739127576,269,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_7,4,4,0.1431357990473897,14.31,143.13579904738978,145,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_7,5,5 Moderately,0.18796462373816933,18.8,187.96462373816942,178,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_7,6,6,0.05407342181723616,5.41,54.07342181723619,59,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_7,7,7 Very Much,0.07971619569266147,7.97,79.71619569266151,79,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_8,1,1 Extremely immoral,0.08128035367401544,8.13,81.28035367401549,88,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_8,2,2,0.09119496913995354,9.12,91.19496913995359,96,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_8,3,3,0.18664306562603153,18.66,186.64306562603164,178,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_8,4,4,0.386502073654467,38.65,386.5020736544672,379,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_8,5,5,0.14877765986186944,14.88,148.77765986186952,150,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_8,6,6,0.05785209111638876,5.79,57.85209111638879,61,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_8,7,7 Extremely moral,0.04774978692727421,4.77,47.749786927274236,48,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_9,1,Strongly agree,0.14337876025881285,14.34,143.37876025881295,128,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_9,2,Agree,0.08736140179722511,8.74,87.36140179722516,89,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_9,3,Somewhat agree,0.09906649164925313,9.91,99.06649164925318,105,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_9,4,Neither agree or disagree,0.4088536831588821,40.89,408.85368315888235,400,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_9,5,Somewhat disagree,0.06252152247551124,6.25,62.521522475511276,63,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_9,6,Disagree,0.09089854859969115,9.09,90.89854859969121,92,false,https://verasight-spsp-2025.tiiny.co
+2025-010_identity_9,7,Strongly disagree,0.10791959206062435,10.79,107.91959206062441,123,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_1,1,Person A,0.36359060706875723,36.36,363.59060706875846,364,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_1,2,Person C,0.7029233945409051,70.29,702.9233945409076,716,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_1,3,Person D,0.3546968774800816,35.47,354.69687748008283,337,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_10,1,Yes,0.6351691627787911,63.52,635.1691627787933,640,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_10,2,No,0.3648308372212089,36.48,364.8308372212102,360,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_11,1,0 Not open at all,0.011497394732298083,1.15,11.497394732298122,9,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_11,2,1 Mostly Not Open,0.026918294401727043,2.69,26.918294401727135,21,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_11,3,2 Somewhat Not Open,0.04713328198004839,4.71,47.13328198004855,40,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_11,4,3 Somewhat Open,0.3019587059292285,30.2,301.95870592922955,279,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_11,5,4 Mostly Open,0.3280459848463228,32.8,328.0459848463239,348,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_11,6,5 Very Open,0.28444633811037523,28.44,284.4463381103762,303,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_12,1,"Yes, I would continue listening.",0.39951543832165104,39.95,399.5154383216524,389,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_12,2,"No, I would stop listening.",0.600484561678349,60.05,600.484561678351,611,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_13,1,Will enjoy much less over time,0.04067296503684055,4.07,40.67296503684069,48,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_13,2,Will enjoy a little less over time,0.19987299695773442,19.99,199.8729969577351,195,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_13,3,Will enjoy about the same,0.5715020046152175,57.15,571.5020046152194,582,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_13,4,Will enjoy a little more over time,0.09917724065954796,9.92,99.17724065954829,94,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_13,5,Will enjoy much more over time,0.08877479273065965,8.88,88.77479273065995,81,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_14,1,"Moments when I achieved something (e.g. marriage, awards, graduation, start a new degree or other academic/professional",0.11491134549022171,11.49,114.9113454902221,122,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_14,2,"Moments when I was having fun (e.g. vacation, parties, social gatherings)",0.2715172988502754,27.15,271.51729885027635,262,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_14,3,"Random events (e.g. daily life updates, memes, spontaneous thoughts)",0.3280520010188889,32.81,328.05200101889,342,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_14,4,Others,0.07806868961931133,7.81,78.0686896193116,82,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_14,5,I don't post on social media,0.20745066502130266,20.75,207.45066502130337,192,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_15,1,1 Not at all true,0.28748023963863495,28.75,287.4802396386359,280,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_15,2,2,0.1276701968022589,12.77,127.67019680225935,125,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_15,3,3,0.12057723256270435,12.06,120.57723256270476,128,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_15,4,4,0.1841516528538668,18.42,184.15165285386743,187,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_15,5,5,0.16033828766403144,16.03,160.33828766403198,155,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_15,6,6,0.044866522749848786,4.49,44.86652274984894,50,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_15,7,7 Very true,0.07491586772865483,7.49,74.91586772865509,75,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_16,1,Not at all true,0.03969246660146399,3.97,39.692466601464126,32,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_16,2,Mostly untrue,0.09048941050838437,9.05,90.48941050838468,91,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_16,3,Neither true nor untrue,0.2665978957255327,26.66,266.59789572553365,254,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_16,4,Mostly true,0.478527994670376,47.85,478.5279946703776,486,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_16,5,Very true,0.12469223249424298,12.47,124.6922324942434,137,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_17,1,Person A,0.7707782773915722,77.08,770.7782773915749,774,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_17,2,Person C,0.4021150109444886,40.21,402.11501094448994,401,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_17,3,Person D,0.2917259274654923,29.17,291.7259274654933,281,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_18,1,Strongly disagree,0.5542941653074908,55.43,554.2941653074927,565,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_18,2,Disagree,0.23834207687662395,23.83,238.34207687662476,247,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_18,3,Neither agree nor disagree,0.15295211987144583,15.3,152.95211987144634,133,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_18,4,Agree,0.03649079427747252,3.65,36.490794277472645,38,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_18,5,Strongly agree,0.01792084366696706,1.79,17.920843666967123,17,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_19,1,Definitely Conservation more than Openness,0.06303012882711352,6.3,63.03012882711374,60,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_19,2,Conservation more than Openness,0.0849434749286048,8.49,84.94347492860508,80,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_19,3,Somewhat Conservation more than Openness,0.12159905320846606,12.16,121.59905320846647,118,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_19,4,Neutral,0.344326965224984,34.43,344.3269652249852,327,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_19,5,Somewhat Openness more than Conservation,0.15645288235371138,15.65,156.4528823537119,166,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_19,6,Openness more than Conservation,0.15307851883264356,15.31,153.07851883264408,162,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_19,7,Definitely Openness more than Conservation,0.0765689766244767,7.66,76.56897662447696,87,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_2,1,Strongly disagree,0.17193020340389079,17.19,171.93020340389137,180,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_2,2,Disagree,0.14759725243530275,14.76,147.59725243530326,159,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_2,3,Somewhat disagree,0.14607456480419842,14.61,146.07456480419893,137,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_2,4,Neutral,0.245585513425598,24.56,245.58551342559883,239,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_2,5,Somewhat agree,0.15801604806752761,15.8,158.01604806752815,162,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_2,6,Agree,0.08691899136250937,8.69,86.91899136250967,77,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_2,7,Strongly agree,0.04387742650097311,4.39,43.87742650097326,46,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_20,1,More friends but less money,0.2878953675118681,28.79,287.8953675118691,300,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_20,2,More money but fewer friends,0.7121046324881319,71.21,712.1046324881344,700,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_21,1,1 Definitely would not,0.5509439434047765,55.09,550.9439434047783,540,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_21,2,2,0.16991332219137426,16.99,169.91332219137485,182,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_21,3,3,0.08788977232877453,8.79,87.88977232877482,95,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_21,4,4,0.13158500259564063,13.16,131.58500259564107,121,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_21,5,5,0.02850538719936914,2.85,28.50538719936924,29,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_21,6,6,0.012571569459888804,1.26,12.571569459888847,13,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_21,7,7 Definitely would,0.018591002820176294,1.86,18.591002820176357,20,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_22,1,Strongly Disagree,0.005789411903386844,0.58,5.789411903386863,7,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_22,2,Disagree,0.013189986983261343,1.32,13.189986983261388,10,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_22,3,Slightly Disagree,0.030782742271518546,3.08,30.78274227151865,29,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_22,4,Neutral,0.15105349881278038,15.11,151.0534988127809,144,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_22,5,Slightly Agree,0.23915586846289122,23.92,239.15586846289204,255,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_22,6,Agree,0.387566424087408,38.76,387.5664240874093,390,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_22,7,Strongly Agree,0.17246206747875373,17.25,172.4620674787543,165,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_23,1,Strongly Disagree,0.004571003775185596,0.46,4.571003775185612,5,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_23,2,Disagree,0.006993391925471073,0.7,6.993391925471097,9,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_23,3,Slightly Disagree,0.01450593517271119,1.45,14.50593517271124,15,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_23,4,Neutral,0.13329866084417336,13.33,133.2986608441738,123,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_23,5,Slightly Agree,0.2186540712308535,21.87,218.65407123085424,225,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_23,6,Agree,0.4010566914023652,40.11,401.0566914023666,404,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_23,7,Strongly Agree,0.2209202456492401,22.09,220.92024564924085,219,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_24,1,Strongly Disagree,0.008637075106254978,0.86,8.637075106255008,10,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_24,2,Disagree,0.007551662652631126,0.76,7.551662652631152,6,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_24,3,Slightly Disagree,0.021092364183539044,2.11,21.092364183539114,21,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_24,4,Neutral,0.1722955214446467,17.23,172.29552144464728,164,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_24,5,Slightly Agree,0.2303850752819229,23.04,230.3850752819237,227,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_24,6,Agree,0.37002036272608896,37,370.02036272609024,391,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_24,7,Strongly Agree,0.19001793860491636,19,190.01793860491702,181,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_25,1,Strongly Disagree,0.012730607999440952,1.27,12.730607999440995,13,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_25,2,Disagree,0.014561815658925125,1.46,14.561815658925175,16,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_25,3,Slightly Disagree,0.03568666786457429,3.57,35.68666786457442,37,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_25,4,Neutral,0.17640486213610437,17.64,176.40486213610498,171,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_25,5,Slightly Agree,0.26908981946872224,26.91,269.08981946872314,267,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_25,6,Agree,0.3352007348313041,33.52,335.2007348313052,345,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_25,7,Strongly Agree,0.15632549204092902,15.63,156.32549204092956,151,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_26,1,Strongly Disagree,0.13342032920729271,13.34,133.42032920729318,137,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_26,2,Disagree,0.2548662629894574,25.49,254.86626298945828,264,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_26,3,Slightly Disagree,0.22407160432793485,22.41,224.07160432793563,223,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_26,4,Neutral,0.22521261948394436,22.52,225.21261948394513,216,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_26,5,Slightly Agree,0.10077396370721174,10.08,100.77396370721209,93,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_26,6,Agree,0.04577244513061879,4.58,45.77244513061895,48,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_26,7,Strongly Agree,0.015882775153540182,1.59,15.882775153540235,19,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_27,1,Strongly Disagree,0.16514988584302054,16.51,165.1498858430211,170,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_27,2,Disagree,0.2833222754414266,28.33,283.32227544142756,298,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_27,3,Slightly Disagree,0.23530404021952672,23.53,235.30404021952754,227,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_27,4,Neutral,0.17672400808281521,17.67,176.72400808281583,175,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_27,5,Slightly Agree,0.07129449516027457,7.13,71.29449516027482,59,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_27,6,Agree,0.047502343496764965,4.75,47.50234349676513,45,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_27,7,Strongly Agree,0.020702951756171383,2.07,20.702951756171455,26,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_28,1,Strongly Disagree,0.014654507673284075,1.47,14.654507673284124,16,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_28,2,Disagree,0.026518878311955783,2.65,26.518878311955874,24,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_28,3,Slightly Disagree,0.06141319694233646,6.14,61.41319694233667,56,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_28,4,Neutral,0.2221639011092617,22.22,222.16390110926247,220,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_28,5,Slightly Agree,0.2600412376290548,26,260.0412376290557,264,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_28,6,Agree,0.2857424153953702,28.57,285.7424153953712,300,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_28,7,Strongly Agree,0.129465862938737,12.95,129.46586293873744,120,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_29,1,Strongly Disagree,0.021415594883409304,2.14,21.415594883409376,22,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_29,2,Disagree,0.030318663378250066,3.03,30.318663378250168,33,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_29,3,Slightly Disagree,0.0554589716017462,5.55,55.458971601746384,52,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_29,4,Neutral,0.1682588376360651,16.83,168.2588376360657,159,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_29,5,Slightly Agree,0.25758344906905334,25.76,257.5834490690542,266,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_29,6,Agree,0.31869320687176833,31.87,318.6932068717694,319,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_29,7,Strongly Agree,0.1482712765597077,14.83,148.2712765597082,149,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_3,1,Strongly disagree,0.06310012179693097,6.31,63.10012179693119,74,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_3,2,Disagree,0.09885517535940865,9.89,98.85517535940899,99,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_3,3,Neither agree nor disagree,0.29167006915210325,29.17,291.67006915210425,292,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_3,4,Agree,0.33615455663713645,33.62,336.1545566371376,334,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_3,5,Strongly agree,0.21022007705442072,21.02,210.22007705442144,201,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_30,1,Strongly Disagree,0.019091827397613614,1.91,19.09182739761368,19,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_30,2,Disagree,0.02956085921208017,2.96,29.56085921208027,30,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_30,3,Slightly Disagree,0.04996878973326596,5,49.968789733266135,46,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_30,4,Neutral,0.21188110406943705,21.19,211.88110406943778,213,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_30,5,Slightly Agree,0.26032429205812424,26.03,260.32429205812514,259,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_30,6,Agree,0.3033879608408949,30.34,303.38796084089597,309,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_30,7,Strongly Agree,0.12578516668858408,12.58,125.78516668858452,124,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_31,1,Strongly Disagree,0.06179060309161888,6.18,61.79060309161909,62,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_31,2,Disagree,0.10024085415178485,10.02,100.2408541517852,109,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_31,3,Slightly Disagree,0.1147691053030535,11.48,114.76910530305389,108,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_31,4,Neutral,0.1986784463163412,19.87,198.67844631634188,185,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_31,5,Slightly Agree,0.25410027726020523,25.41,254.1002772602061,259,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_31,6,Agree,0.1803852018521474,18.04,180.38520185214801,198,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_31,7,Strongly Agree,0.09003551202484902,9,90.03551202484933,79,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_4,1,A mid-level manager of an ethnically diverse team of 10.,0.6543480797815941,65.43,654.3480797815964,674,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_4,2,A senior manager under the supervision of a Black man.,0.3456519202184059,34.57,345.6519202184071,326,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_5,1,Quality,0.6474578398106061,64.75,647.4578398106083,640,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_5,2,Brand reputation,0.407795298986639,40.78,407.79529898664043,415,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_5,3,Sustainability,0.17502018710063394,17.5,175.02018710063453,178,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_5,4,Innovation,0.16113467462371045,16.11,161.134674623711,170,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_5,5,Technology,0.18841559972830704,18.84,188.41559972830768,192,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_5,6,Affordability,0.5246575283938745,52.47,524.6575283938763,527,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_5,7,Other (please specify),0.05358248366676552,5.36,53.582483666765704,45,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_6,1,"Yes, the AI should — because AI performs the same tasks and contributes equally to work outcomes; compensation should be based on performance",0.09233931599107957,9.23,92.33931599107989,87,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_6,2,"Yes, the AI should — because the AI has important financial needs (e.g., charging, travel, internet access, repair)",0.04430429014363494,4.43,44.30429014363509,50,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_6,3,"Yes, the AI should — because this avoids exploitation of labor for all workers, regardless of their nature.",0.051318814203427814,5.13,51.31881420342799,62,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_6,4,"No, the AI should not — because AI does not experience emotions, effort, or job satisfaction and does not benefit from wages in this way",0.307274720684838,30.73,307.27472068483905,296,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_6,5,"No, the AI should not — because the AI does not have important financial needs (e.g., food, housing, healthcare, hygiene)",0.3747816700732387,37.48,374.78167007324,385,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_6,6,"No, the AI should not — because paying the AI devalues human labor",0.2826845393806522,28.27,282.6845393806532,280,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_6,7,"Other, please specify",0.03288332632712716,3.29,32.88332632712728,33,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_6_multi,1,Single-select,0.650984739663533,65.1,650.9847396635352,627,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_6_multi,2,Multi-select,0.3490152603364672,34.9,349.0152603364684,373,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_7,1,Home,0.814119782896734,81.41,814.1197828967369,828,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_7,2,Someone else’s home,0.03793857260132576,3.79,37.93857260132589,33,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_7,3,Work,0.058529698716315456,5.85,58.52969871631566,58,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_7,4,School,0.019375666560772508,1.94,19.375666560772576,14,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_7,5,Community place,0.030296181345838825,3.03,30.296181345838928,27,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_7,6,Commercial place,0.008354218350520195,0.84,8.354218350520224,8,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_7,7,Other (please specify),0.031385879528493206,3.14,31.385879528493316,32,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_8,1,1 Strongly disagree,0.22988619914322272,22.99,229.8861991432235,228,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_8,2,2,0.10795407821399251,10.8,107.95407821399289,114,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_8,3,3,0.09996150416706458,10,99.96150416706492,106,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_8,4,4,0.23427059445645312,23.43,234.27059445645392,245,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_8,5,5,0.14749446144204034,14.75,147.49446144204086,139,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_8,6,6,0.07295034220194867,7.3,72.95034220194891,63,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_8,7,7 Strongly agree,0.10748282037527808,10.75,107.48282037527845,105,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_9,1,1 None at all,0.12829094644615502,12.83,128.29094644615546,121,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_9,2,2,0.07077850696533629,7.08,70.77850696533653,73,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_9,3,3,0.09344860385848046,9.34,93.44860385848078,94,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_9,4,4,0.2967849457661979,29.68,296.7849457661989,285,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_9,5,5,0.20979354991625143,20.98,209.79354991625215,224,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_9,6,6,0.09683438651315755,9.68,96.83438651315788,92,false,https://verasight-spsp-2025.tiiny.co
+2025-010_personality_9,7,7 A lot,0.10406906053442146,10.41,104.06906053442181,111,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_1,1,All of the residents,0.051581061437509755,5.16,51.581061437509724,52,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_1,2,Almost all of the residents,0.13209672395825037,13.21,132.0967239582503,118,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_1,3,More than half of the residents,0.1959588213954449,19.6,195.9588213954448,190,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_1,4,About half of the residents,0.2113385537179416,21.13,211.3385537179415,232,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_1,5,Less than half of the residents,0.20602961583024812,20.6,206.029615830248,212,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_1,6,Almost none of the residents,0.07120924056803465,7.12,71.20924056803462,74,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_1,7,None of the residents,0.02076547953580866,2.08,20.765479535808648,17,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_1,8,I don't know,0.11102050355676184,11.1,111.02050355676178,105,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_10,1,Strongly disagree,0.18271929725879962,18.27,182.71929725879951,203,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_10,2,Disagree,0.15013470958045744,15.01,150.13470958045735,152,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_10,3,Somewhat disagree,0.09521930165066987,9.52,95.21930165066982,94,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_10,4,Neither agree nor disagree,0.28417010990769576,28.42,284.1701099076956,268,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_10,5,Somewhat agree,0.15485622294945914,15.49,154.85622294945904,158,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_10,6,Agree,0.061525971000635095,6.15,61.52597100063506,65,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_10,7,Strongly agree,0.07137438765228302,7.14,71.37438765228298,60,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_11,1,Strongly disagree,0.42582981185424884,42.58,425.8298118542486,454,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_11,2,Disagree,0.19780728574769135,19.78,197.80728574769125,191,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_11,3,Somewhat disagree,0.06251474516680001,6.25,62.51474516679998,64,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_11,4,Neither agree nor disagree,0.17513289795926953,17.51,175.13289795926943,161,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_11,5,Somewhat agree,0.06228714887262505,6.23,62.28714887262501,60,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_11,6,Agree,0.03641354458778324,3.64,36.413544587783214,39,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_11,7,Strongly agree,0.04001456581158189,4,40.01456581158187,31,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_12,1,Strongly disagree,0.22554721682293755,22.55,225.54721682293743,242,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_12,2,Disagree,0.16868892033749636,16.87,168.68892033749626,172,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_12,3,Somewhat disagree,0.13636299823527842,13.64,136.36299823527835,127,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_12,4,Neither agree nor disagree,0.24072403375187537,24.07,240.72403375187523,221,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_12,5,Somewhat agree,0.1320853148627869,13.21,132.08531486278684,142,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_12,6,Agree,0.039676928765099456,3.97,39.67692876509943,45,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_12,7,Strongly agree,0.056914587224525845,5.69,56.91458722452581,51,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_13,1,1 Definitely not true,0.03152768006753106,3.15,31.527680067531044,30,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_13,2,2,0.11264771824217974,11.26,112.64771824217968,118,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_13,3,3,0.353337805916069,35.33,353.3378059160688,352,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_13,4,4,0.25621722613284953,25.62,256.21722613284936,266,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_13,5,5 Definitely true,0.24626956964137056,24.63,246.26956964137042,234,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_14,1,1 I hate this idea,0.15555915670775883,15.56,155.55915670775875,163,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_14,2,2,0.08481250661540128,8.48,84.81250661540123,92,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_14,3,3,0.10543598769378844,10.54,105.43598769378838,118,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_14,4,4,0.22638426642767634,22.64,226.3842664276762,210,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_14,5,5,0.15427280840395743,15.43,154.27280840395736,154,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_14,6,6,0.10100360622021676,10.1,101.0036062202167,105,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_14,7,7 I love this idea,0.17253166793120084,17.25,172.53166793120073,158,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_15,1,1 I hate this idea,0.23806458968433278,23.81,238.06458968433265,251,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_15,2,2,0.12950558779064694,12.95,129.50558779064687,131,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_15,3,3,0.12756033310592504,12.76,127.56033310592497,120,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_15,4,4,0.2192458424805372,21.92,219.24584248053708,199,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_15,5,5,0.10411724759433855,10.41,104.1172475943385,117,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_15,6,6,0.0657859173005884,6.58,65.78591730058837,69,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_15,7,7 I love this idea,0.115720482043631,11.57,115.72048204363094,113,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_16,1,1 I hate this idea,0.2646847015600235,26.47,264.68470156002337,284,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_16,2,2,0.1204582321300654,12.05,120.45823213006533,121,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_16,3,3,0.1445293881058207,14.45,144.5293881058206,129,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_16,4,4,0.21085520271203267,21.09,210.85520271203256,208,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_16,5,5,0.11341328406403367,11.34,113.4132840640336,120,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_16,6,6,0.05964432069629099,5.96,59.644320696290954,67,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_16,7,7 I love this idea,0.08641487073173296,8.64,86.4148707317329,71,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_17,1,1 I hate this idea,0.23013578496811266,23.01,230.13578496811252,237,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_17,2,2,0.10956005211641483,10.96,109.56005211641477,111,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_17,3,3,0.13512017081925576,13.51,135.1201708192557,122,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_17,4,4,0.22836102709675138,22.84,228.36102709675126,225,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_17,5,5,0.12646085709720892,12.65,126.46085709720884,129,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_17,6,6,0.04422494765347281,4.42,44.22494765347279,55,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_17,7,7 I love this idea,0.12613716024878355,12.61,126.13716024878349,121,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_18,1,1 I hate this idea,0.2990942097231013,29.91,299.09420972310113,315,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_18,2,2,0.10437324499230376,10.44,104.3732449923037,102,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_18,3,3,0.1178568687523887,11.79,117.85686875238864,111,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_18,4,4,0.16703910714854392,16.7,167.03910714854382,146,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_18,5,5,0.09523627969473827,9.52,95.23627969473822,106,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_18,6,6,0.06519962812080372,6.52,65.19962812080368,69,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_18,7,7 I love this idea,0.15120066156812023,15.12,151.20066156812015,151,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_19,1,1 Strongly disagree,0.2866927334313302,28.67,286.69273343133005,331,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_19,2,2,0.08643216468324488,8.64,86.43216468324484,83,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_19,3,3,0.09277395216397981,9.28,92.77395216397976,80,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_19,4,4,0.17498759754027374,17.5,174.98759754027364,150,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_19,5,5,0.07707841460269331,7.71,77.07841460269327,80,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_19,6,6,0.06940676769348869,6.94,69.40676769348865,63,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_19,7,7 Strongly agree,0.21262836988498923,21.26,212.6283698849891,213,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_2,1,Strongly agree,0.4628795620748532,46.29,462.8795620748529,466,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_2,2,Somewhat agree,0.23914073071144668,23.91,239.14073071144654,250,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_2,3,Neither agree nor disagree,0.1481564631720982,14.82,148.15646317209814,142,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_2,4,Somewhat disagree,0.06130386700508914,6.13,61.30386700508911,67,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_2,5,Strongly disagree,0.08851937703651268,8.85,88.51937703651262,75,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_20,1,Not similar at all,0.03199782478181761,3.2,31.997824781817595,27,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_20,2,Not very similar,0.04456277699329645,4.46,44.562776993296424,37,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_20,3,Neutral,0.16976208338693916,16.98,169.76208338693905,157,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_20,4,A little similar,0.12722657061495554,12.72,127.22657061495548,135,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_20,5,Very similar,0.3901659385245143,39.02,390.1659385245141,403,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_20,6,I don't have a romantic partner,0.23628480569847682,23.63,236.28480569847667,241,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_21,1,Very conservative,0.11782872222611868,11.78,117.82872222611861,104,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_21,2,Moderately conservative,0.15434691578912568,15.43,154.3469157891256,158,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_21,3,Slightly conservative,0.2618365550940804,26.18,261.8365550940802,246,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_21,4,Slightly liberal,0.20219246834467178,20.22,202.19246834467165,205,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_21,5,Moderately liberal,0.14813822296683923,14.81,148.13822296683915,164,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_21,6,Very liberal,0.1156571155791642,11.57,115.65711557916413,123,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_22,1,Strong negative change,0.025988025575367033,2.6,25.98802557536702,32,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_22,2,Moderate negative change,0.02878139629264421,2.88,28.781396292644196,28,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_22,3,Slight negative change,0.050835651851947314,5.08,50.83565185194728,51,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_22,4,No change,0.5634159773821834,56.34,563.4159773821831,546,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_22,5,Slight positive change,0.04458073686900259,4.46,44.580736869002564,51,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_22,6,Moderate positive change,0.04258944821506949,4.26,42.58944821506947,45,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_22,7,Strong positive change,0.08172537287578129,8.17,81.72537287578123,81,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_22,8,I do not have a relationship partner,0.16208339093800464,16.21,162.08339093800456,166,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_23,1,Strongly distrust,0.38715906251638493,38.72,387.1590625163847,406,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_23,2,Somewhat distrust,0.1028750912951694,10.29,102.87509129516934,93,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_23,3,Neutral,0.2373913666074333,23.74,237.39136660743316,216,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_23,4,Somewhat trust,0.13222113901825866,13.22,132.22113901825858,147,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_23,5,Strongly trust,0.14035334056275361,14.04,140.35334056275354,138,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_24,1,Strongly disagree,0.15775780771694187,15.78,157.75780771694178,169,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_24,2,Somewhat disagree,0.08725608425218893,8.73,87.25608425218888,87,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_24,3,Slightly disagree,0.08074074317537307,8.07,80.74074317537303,85,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_24,4,Neutral,0.31244026610886827,31.24,312.4402661088681,292,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_24,5,Slightly agree,0.08471072574690544,8.47,84.7107257469054,86,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_24,6,Somewhat agree,0.10655395115717671,10.66,106.55395115717666,103,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_24,7,Strongly agree,0.17054042184254556,17.05,170.54042184254547,178,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_25,1,1 Not at all disgusting,0.34227047222626333,34.23,342.27047222626317,365,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_25,2,2 Somewhat disgusting,0.1710000584931976,17.1,171.0000584931975,169,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_25,3,3 Moderately disgusting,0.1746135492253368,17.46,174.61354922533673,151,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_25,4,4 Very disgusting,0.10544162131370541,10.54,105.44162131370535,104,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_25,5,5 Completely disgusting,0.20667429874149668,20.67,206.67429874149656,211,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_26,1,1 Strongly disagree,0.15808582178857658,15.81,158.08582178857648,158,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_26,2,2 Disagree,0.1456758021488002,14.57,145.6758021488001,154,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_26,3,3 Somewhat disagree,0.10792033859316126,10.79,107.9203385931612,104,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_26,4,4 Neither agree nor disagree,0.40435891655895095,40.44,404.35891655895074,400,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_26,5,5 Somewhat agree,0.10454241916916741,10.45,104.54241916916736,102,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_26,6,6 Agree,0.04487011791231952,4.49,44.87011791231949,47,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_26,7,7 Strongly agree,0.03454658382902401,3.45,34.54658382902399,35,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_27,1,Yes,0.6084705401235618,60.85,608.4705401235615,625,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_27,2,No,0.1353831667980414,13.54,135.38316679804134,137,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_27,3,Not sure,0.2561462930783967,25.61,256.1462930783966,238,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_28,1,Yes,0.6616993234121874,66.17,661.699323412187,689,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_28,2,No,0.10376747545393561,10.38,103.76747545393555,97,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_28,3,Not sure,0.23453320113387696,23.45,234.53320113387682,214,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_29,1,0-20%,0.23992557410942392,23.99,239.9255741094238,247,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_29,2,20-40%,0.18868902718799135,18.87,188.68902718799126,182,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_29,3,40-60%,0.2984961013706538,29.85,298.4961013706536,293,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_29,4,60-80%,0.13726512221304377,13.73,137.2651222130437,144,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_29,5,80-100%,0.13562417511888705,13.56,135.62417511888697,134,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_3,1,Strongly agree,0.11174560273699156,11.17,111.7456027369915,109,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_3,2,Somewhat agree,0.16712406056740345,16.71,167.12406056740335,169,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_3,3,Neither agree nor disagree,0.17922489799699662,17.92,179.2248979969965,164,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_3,4,Somewhat disagree,0.2439198919742542,24.39,243.91989197425406,236,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_3,5,Strongly disagree,0.29798554672435407,29.8,297.9855467243539,322,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_30,1,0-20%,0.2259461971024528,22.59,225.9461971024527,219,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_30,2,20-40%,0.1505207549482667,15.05,150.5207549482666,145,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_30,3,40-60%,0.3197202102189593,31.97,319.7202102189591,313,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_30,4,60-80%,0.17459561910099095,17.46,174.59561910099086,194,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_30,5,80-100%,0.12921721862933017,12.92,129.2172186293301,129,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_31,1,Strongly disagree,0.2359968017416365,23.6,235.99680174163638,248,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_31,2,Slightly disagree,0.12499691681727157,12.5,124.9969168172715,136,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_31,3,Neither agree nor disagree,0.2569508652430584,25.7,256.9508652430582,248,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_31,4,Slightly agree,0.2382239705761007,23.82,238.22397057610056,231,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_31,5,Strongly agree,0.14383144562193276,14.38,143.8314456219327,137,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_4,1,1 Not at all,0.07991298013653357,7.99,79.91298013653352,71,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_4,2,2,0.03540983820552396,3.54,35.40983820552394,41,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_4,3,3,0.10646921583494519,10.65,106.46921583494513,106,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_4,4,4,0.3637498403589118,36.37,363.74984035891157,372,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_4,5,5,0.2500544971043858,25.01,250.05449710438566,249,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_4,6,6,0.08972913480156623,8.97,89.72913480156618,90,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_4,7,7 Completely,0.0746744935581334,7.47,74.67449355813335,71,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_5,1,1 Worst off,0.0420733731918857,4.21,42.07337319188567,50,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_5,2,2,0.06551992956191827,6.55,65.51992956191823,76,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_5,3,3,0.21003353173463793,21,210.03353173463782,225,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_5,4,4,0.3431478469957219,34.31,343.1478469957217,322,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_5,5,5,0.2195347494262473,21.95,219.53474942624717,211,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_5,6,6,0.06756699851707236,6.76,67.56699851707232,77,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_5,7,7 Best off,0.05212357057251647,5.21,52.12357057251644,39,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_6,1,1 Worst off,0.04193207029594771,4.19,41.93207029594769,43,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_6,2,2,0.06255819352657355,6.26,62.55819352657351,71,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_6,3,3,0.16839391138250182,16.84,168.39391138250173,185,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_6,4,4,0.33785461510191644,33.79,337.85461510191624,329,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_6,5,5,0.2424393256834506,24.24,242.43932568345048,224,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_6,6,6,0.08513397638686798,8.51,85.13397638686793,96,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_6,7,7 Best off,0.06168790762274183,6.17,61.6879076227418,52,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_7,1,1 Strongly disagree,0.2475192235961158,24.75,247.51922359611567,296,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_7,2,2,0.09006640921486433,9.01,90.06640921486428,91,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_7,3,3,0.09296096160039115,9.3,92.9609616003911,75,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_7,4,4,0.18503519273746605,18.5,185.03519273746593,166,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_7,5,5,0.10370886127953835,10.37,103.7088612795383,88,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_7,6,6,0.07160370385406221,7.16,71.60370385406218,75,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_7,7,7 Strongly agree,0.20910564771756202,20.91,209.1056477175619,209,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_8,1,Strongly disagree,0.03341136642206048,3.34,33.41136642206046,33,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_8,2,Disagree,0.07181986479378494,7.18,71.8198647937849,68,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_8,3,Somewhat disagree,0.08783171910231755,8.78,87.83171910231749,79,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_8,4,Somewhat agree,0.2566829140667101,25.67,256.68291406671,267,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_8,5,Agree,0.26749137814102913,26.75,267.491378141029,276,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_8,6,Strongly agree,0.21032604500463978,21.03,210.32604500463967,213,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_8,7,N/A,0.07243671246945789,7.24,72.43671246945785,64,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_9,1,1 Completely false,0.031068015892080258,3.11,31.06801589208024,25,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_9,2,2,0.058520885061664904,5.85,58.52088506166487,61,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_9,3,3,0.08378388712793738,8.38,83.78388712793733,87,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_9,4,4,0.2261746187930587,22.62,226.17461879305856,239,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_9,5,5,0.2716395016343655,27.16,271.63950163436533,270,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_9,6,6,0.13902714286765488,13.9,139.02714286765482,140,false,https://verasight-spsp-2025.tiiny.co
+2025-010_politics_9,7,7 Completely true,0.18978594862323828,18.98,189.78594862323817,178,false,https://verasight-spsp-2025.tiiny.co
